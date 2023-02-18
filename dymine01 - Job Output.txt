@@ -1,0 +1,1429 @@
+                                                    MM        MM  FFFFFFFFFFFF       11
+                                                   MMM      MMM  FFFFFFFFFFFF      111
+                                                  MMMM    MMMM  FF               1111
+                                                 MM MM  MM MM  FF                 11
+                                                MM  MMMM  MM  FF                 11
+                                               MM   MM   MM  FFFFFFFF           11
+                                              MM        MM  FFFFFFFF           11
+                                             MM        MM  FF                 11
+                                            MM        MM  FF                 11
+                                           MM        MM  FF                 11
+                                          MM        MM  FF             1111111111
+                                         MM        MM  FF             1111111111
+
+
+
+                   SSSSSSSSSS    2222222222    2222222222         444                                  AAAAAAAAAA
+                  SSSSSSSSSSSS  222222222222  222222222222       4444                                 AAAAAAAAAAAA
+                  SS        SS  22        22  22        22      44 44                                 AA        AA
+                  SS                      22            22     44  44                                 AA        AA
+                  SSS                     22            22    44   44                                 AA        AA
+                   SSSSSSSSS             22            22    44444444444                              AAAAAAAAAAAA
+                    SSSSSSSSS          22            22     444444444444                              AAAAAAAAAAAA
+                           SSS       22            22              44                                 AA        AA
+                            SS     22            22                44                                 AA        AA
+                  SS        SS   22            22                  44                                 AA        AA
+                  SSSSSSSSSSSS  222222222222  222222222222         44                                 AA        AA
+                   SSSSSSSSSS   222222222222  222222222222         44                                 AA        AA
+
+
+****A   END   STC  224  MF1                             ROOM        6.07.34 PM 22 DEC 20  PRINTER1  SYS TK4-  STC  224   END   A****
+****A   END   STC  224  MF1                             ROOM        6.07.34 PM 22 DEC 20  PRINTER1  SYS TK4-  STC  224   END   A****
+****A   END   STC  224  MF1                             ROOM        6.07.34 PM 22 DEC 20  PRINTER1  SYS TK4-  STC  224   END   A****
+****A   END   STC  224  MF1                             ROOM        6.07.34 PM 22 DEC 20  PRINTER1  SYS TK4-  STC  224   END   A****
+                 DDDDDDDDD     YY        YY  MM        MM   IIIIIIIIII   NN        NN  EEEEEEEEEEEE    00000000         11
+                DDDDDDDDDD    YY        YY  MMM      MMM   IIIIIIIIII   NNN       NN  EEEEEEEEEEEE   0000000000       111
+               DD       DD    YY      YY   MMMM    MMMM       II       NNNN      NN  EE            00      0000     1111
+              DD        DD    YY    YY    MM MM  MM MM       II       NN NN     NN  EE            00     00 00       11
+             DD        DD     YY  YY     MM  MMMM  MM       II       NN  NN    NN  EE            00    00  00       11
+            DD        DD      YYYY      MM   MM   MM       II       NN   NN   NN  EEEEEEEE      00   00   00       11
+           DD        DD       YY       MM        MM       II       NN    NN  NN  EEEEEEEE      00  00    00       11
+          DD        DD       YY       MM        MM       II       NN     NN NN  EE            00 00     00       11
+         DD        DD       YY       MM        MM       II       NN      NNNN  EE            0000      00       11
+        DD       DD        YY       MM        MM       II       NN       NNN  EE            000       00       11
+       DDDDDDDDDD         YY       MM        MM   IIIIIIIIII   NN        NN  EEEEEEEEEEEE   0000000000    1111111111
+      DDDDDDDDD          YY       MM        MM   IIIIIIIIII   NN         N  EEEEEEEEEEEE    00000000     1111111111
+
+
+
+                    JJJJJJJJJJ        444      6666666666                                              AAAAAAAAAA
+                    JJJJJJJJJJ       4444     666666666666                                            AAAAAAAAAAAA
+                        JJ          44 44     66        66                                            AA        AA
+                        JJ         44  44     66                                                      AA        AA
+                        JJ        44   44     66                                                      AA        AA
+                        JJ       44444444444  66666666666                                             AAAAAAAAAAAA
+                        JJ      444444444444  666666666666                                            AAAAAAAAAAAA
+                        JJ             44     66        66                                            AA        AA
+                  JJ    JJ             44     66        66                                            AA        AA
+                  JJ    JJ             44     66        66                                            AA        AA
+                  JJJJJJJJ             44     666666666666                                            AA        AA
+                   JJJJJJ              44      6666666666                                             AA        AA
+
+
+****A  START  JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46  START  A****
+****A  START  JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46  START  A****
+****A  START  JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46  START  A****
+****A  START  JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46  START  A****
+                                                J E S 2   J O B   L O G
+
+
+18.11.50 JOB   46  $HASP373 DYMINE01 STARTED - INIT  1 - CLASS A - SYS TK4-
+18.11.50 JOB   46  IEF403I DYMINE01 - STARTED - TIME=18.11.50
+18.11.51 JOB   46  IEFACTRT - Stepname  Procstep  Program   Retcode
+18.11.51 JOB   46  DYMINE01   STEP1               SORT      RC= 0000
+18.11.51 JOB   46  DYMINE01   STEP2     COB       IKFCBL00  RC= 0004
+18.11.51 JOB   46  +--- SUCCESSFUL END OF PROGRAM DYMINE01 ---
+18.11.51 JOB   46  DYMINE01   STEP2     GO        LOADER    RC= 0000
+18.11.51 JOB   46  IEF404I DYMINE01 - ENDED - TIME=18.11.51
+18.11.51 JOB   46  $HASP395 DYMINE01 ENDED
+
+
+------ JES2 JOB STATISTICS ------
+
+
+ 22 DEC 20 JOB EXECUTION DATE
+
+
+       213 CARDS READ
+
+
+     1,300 SYSOUT PRINT RECORDS
+
+
+         0 SYSOUT PUNCH RECORDS
+
+
+      0.00 MINUTES EXECUTION TIME
+    1     //DYMINE01 JOB (COBOL),                                                 JOB   46
+          //             'Calgary Crime',
+          //             CLASS=A,
+          //             MSGCLASS=A,
+          //             REGION=8M,TIME=1440,
+          //             MSGLEVEL=(1,1),
+          //            USER=HERC02,PASSWORD=            GENERATED BY GDL
+          **********************************************************************
+          ***
+          *** Name: HERC02.TEST.ASM(DYMINE01)
+          ***
+          *** Description:  This job reads a file of City of Calgary crime
+          ***       data for one month, prepared by a Python script on Linux.
+          ***       It sorts the file by crime category and rate (step 1), and
+          ***       creates a report showing the details by community plus
+          ***       Calgary totals by category.
+          ***
+          **********************************************************************
+    2     //STEP1    EXEC PGM=SORT,REGION=512K,PARM='MSG=AP'
+    3     //SYSOUT   DD  SYSOUT=A
+    4     //SYSUDUMP DD  SYSOUT=A
+    5     //SYSPRINT DD  SYSOUT=A
+          ***SORTDIAG DD  DUMMY
+    6     //SORTLIB  DD  DSNAME=SYS1.SORTLIB,DISP=SHR
+    7     //SORTWK01 DD  UNIT=2314,SPACE=(CYL,(5,5)),VOL=SER=SORT01
+    8     //SORTWK02 DD  UNIT=2314,SPACE=(CYL,(5,5)),VOL=SER=SORT02
+    9     //SORTWK03 DD  UNIT=2314,SPACE=(CYL,(5,5)),VOL=SER=SORT03
+   10     //SORTWK04 DD  UNIT=2314,SPACE=(CYL,(5,5)),VOL=SER=SORT04
+   11     //SORTWK05 DD  UNIT=2314,SPACE=(CYL,(5,5)),VOL=SER=SORT05
+   12     //SORTWK06 DD  UNIT=2314,SPACE=(CYL,(5,5)),VOL=SER=SORT06
+   13     //SYSIN    DD  *
+   14     //SORTIN   DD DSN=HERC02.DATA.CALCRIME,DISP=(OLD,KEEP,KEEP)
+   15     //SORTOUT  DD DSN=&&CRIMESRT,DISP=(NEW,PASS),
+          //             UNIT=SYSDA,
+          //             SPACE=(TRK,15),
+          //             DCB=(RECFM=FB,LRECL=86,BLKSIZE=860)
+          ***
+          **********************************************************************
+   16     //STEP2    EXEC COBUCG,
+          //         PARM.COB='FLAGW,LOAD,SUPMAP,SIZE=2048K,BUF=1024K'
+   17     XXCOBUCG PROC SOUT='*'                                                  00000100
+   18     XXCOB EXEC PGM=IKFCBL00,                                                00000200
+          XX         PARM='LOAD,SIZE=2048K,BUF=1024K'                             00000300
+   19     XXSYSPRINT DD SYSOUT=&SOUT                                              00000400
+   20     XXSYSUT1 DD UNIT=SYSDA,SPACE=(460,(700,100))                            00000500
+   21     XXSYSUT2 DD UNIT=SYSDA,SPACE=(460,(700,100))                            00000600
+   22     XXSYSUT3 DD UNIT=SYSDA,SPACE=(460,(700,100))                            00000700
+   23     XXSYSUT4 DD UNIT=SYSDA,SPACE=(460,(700,100))                            00000800
+   24     XXSYSLIN DD DSNAME=&LOADSET,DISP=(MOD,PASS),                            00000900
+          XX             UNIT=SYSDA,SPACE=(80,(500,100))                          00001000
+   25     //COB.SYSPUNCH DD DUMMY
+   26     //COB.SYSIN    DD *
+   27     //COB.SYSLIB  DD DSNAME=SYS1.COBLIB,DISP=SHR
+   28     XXGO EXEC PGM=LOADER,PARM='MAP,LET',COND=(5,LT,COB)                     00001100
+   29     XXSYSLIN DD DSNAME=*.COB.SYSLIN,DISP=(OLD,DELETE)                       00001200
+   30     XXSYSLOUT DD SYSOUT=&SOUT                                               00001300
+   31     XXSYSLIB DD DSNAME=SYS1.COBLIB,DISP=SHR                                 00001400
+   32     //GO.SYSOUT   DD SYSOUT=*,DCB=(RECFM=FBA,LRECL=161,BLKSIZE=16100)
+   33     //GO.CRIMEIN  DD DSN=&&CRIMESRT,DISP=(OLD,PASS)
+   34     //GO.DETRPT   DD SYSOUT=A
+ STMT NO. MESSAGE
+-
+   19     IEF653I SUBSTITUTION JCL - SYSOUT=*
+   30     IEF653I SUBSTITUTION JCL - SYSOUT=*
+IEF236I ALLOC. FOR DYMINE01 STEP1
+IEF237I JES2 ALLOCATED TO SYSOUT
+IEF237I JES2 ALLOCATED TO SYSUDUMP
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 148  ALLOCATED TO SORTLIB
+IEF237I 131  ALLOCATED TO SORTWK01
+IEF237I 132  ALLOCATED TO SORTWK02
+IEF237I 133  ALLOCATED TO SORTWK03
+IEF237I 134  ALLOCATED TO SORTWK04
+IEF237I 135  ALLOCATED TO SORTWK05
+IEF237I 136  ALLOCATED TO SORTWK06
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF237I 280  ALLOCATED TO SORTIN
+IEF237I 240  ALLOCATED TO SYS00006
+IEF237I 170  ALLOCATED TO SORTOUT
+IEF142I DYMINE01 STEP1 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   JES2.JOB00046.SO0103                         SYSOUT
+IEF285I   JES2.JOB00046.SO0104                         SYSOUT
+IEF285I   JES2.JOB00046.SO0105                         SYSOUT
+IEF285I   SYS1.SORTLIB                                 KEPT          *--------0
+IEF285I   VOL SER NOS= MVSRES.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000001     DELETED       *--------0
+IEF285I   VOL SER NOS= SORT01.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000002     DELETED       *--------0
+IEF285I   VOL SER NOS= SORT02.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000003     DELETED       *--------0
+IEF285I   VOL SER NOS= SORT03.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000004     DELETED       *--------0
+IEF285I   VOL SER NOS= SORT04.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000005     DELETED       *--------0
+IEF285I   VOL SER NOS= SORT05.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000006     DELETED       *-------24
+IEF285I   VOL SER NOS= SORT06.
+IEF285I   JES2.JOB00046.SI0101                         SYSIN
+IEF285I   HERC02.DATA.CALCRIME                         KEPT          *-------88
+IEF285I   VOL SER NOS= PUB002.
+IEF285I   SYS1.UCAT.TSO                                KEPT          *--------0
+IEF285I   VOL SER NOS= PUB000.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.CRIMESRT     PASSED        *-------87
+IEF285I   VOL SER NOS= WORK01.
+IEF373I STEP /STEP1   / START 20357.1811
+IEF374I STEP /STEP1   / STOP  20357.1811 CPU    0MIN 00.09SEC SRB    0MIN 00.03SEC VIRT   276K SYS   208K
+************************************************************************************************************************************
+*     1. Jobstep of job: DYMINE01    Stepname: STEP1       Program name: SORT       Executed on 22.12.20 from 18.11.50 to 18.11.51 *
+*         elapsed time  00:00:00,18                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,12               Virtual Storage used:    276K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,12   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      1                                                                           *
+*     DMY.......0 DMY.......0 DMY.......0 148.......0 131.......0 132.......0 133.......0 134.......0 135.......0 136......24      *
+*     DMY.......0 280......88 240.......0 170......87                                                                              *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,20                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR DYMINE01 COB STEP2
+IEF237I JES2 ALLOCATED TO SYSPRINT
+IEF237I 140  ALLOCATED TO SYSUT1
+IEF237I 180  ALLOCATED TO SYSUT2
+IEF237I 170  ALLOCATED TO SYSUT3
+IEF237I 190  ALLOCATED TO SYSUT4
+IEF237I 190  ALLOCATED TO SYSLIN
+IEF237I DMY  ALLOCATED TO SYSPUNCH
+IEF237I JES2 ALLOCATED TO SYSIN
+IEF237I 148  ALLOCATED TO SYSLIB
+IEF142I DYMINE01 COB STEP2 - STEP WAS EXECUTED - COND CODE 0004
+IEF285I   JES2.JOB00046.SO0106                         SYSOUT
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000007     DELETED       *--------6
+IEF285I   VOL SER NOS= WORK00.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000008     DELETED       *--------6
+IEF285I   VOL SER NOS= WORK02.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000009     DELETED       *--------9
+IEF285I   VOL SER NOS= WORK01.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.R0000010     DELETED       *--------5
+IEF285I   VOL SER NOS= WORK03.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.LOADSET      PASSED        *-------92
+IEF285I   VOL SER NOS= WORK03.
+IEF285I   JES2.JOB00046.SI0102                         SYSIN
+IEF285I   SYS1.COBLIB                                  KEPT          *--------0
+IEF285I   VOL SER NOS= MVSRES.
+IEF373I STEP /COB     / START 20357.1811
+IEF374I STEP /COB     / STOP  20357.1811 CPU    0MIN 00.08SEC SRB    0MIN 00.05SEC VIRT  2076K SYS   232K
+************************************************************************************************************************************
+*     2. Jobstep of job: DYMINE01    Stepname: COB         Program name: IKFCBL00   Executed on 22.12.20 from 18.11.51 to 18.11.51 *
+*         elapsed time  00:00:00,18                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,13               Virtual Storage used:   2076K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,13   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:    164                                                                           *
+*     DMY.......0 140.......6 180.......6 170.......9 190.......5 190......92 DMY.......0 DMY.......0 148.......0                  *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,21                                             *
+************************************************************************************************************************************
+IEF236I ALLOC. FOR DYMINE01 GO STEP2
+IEF237I 190  ALLOCATED TO SYSLIN
+IEF237I JES2 ALLOCATED TO SYSLOUT
+IEF237I 148  ALLOCATED TO SYSLIB
+IEF237I JES2 ALLOCATED TO SYSOUT
+IEF237I 170  ALLOCATED TO CRIMEIN
+IEF237I JES2 ALLOCATED TO DETRPT
+--- SUCCESSFUL END OF PROGRAM DYMINE01 ---
+IEF142I DYMINE01 GO STEP2 - STEP WAS EXECUTED - COND CODE 0000
+IEF285I   SYS20357.T181150.RA000.DYMINE01.LOADSET      DELETED       *-------93
+IEF285I   VOL SER NOS= WORK03.
+IEF285I   JES2.JOB00046.SO0107                         SYSOUT
+IEF285I   SYS1.COBLIB                                  KEPT          *-------13
+IEF285I   VOL SER NOS= MVSRES.
+IEF285I   JES2.JOB00046.SO0108                         SYSOUT
+IEF285I   SYS20357.T181150.RA000.DYMINE01.CRIMESRT     PASSED        *-------88
+IEF285I   VOL SER NOS= WORK01.
+IEF285I   JES2.JOB00046.SO0109                         SYSOUT
+IEF373I STEP /GO      / START 20357.1811
+IEF374I STEP /GO      / STOP  20357.1811 CPU    0MIN 00.04SEC SRB    0MIN 00.02SEC VIRT   332K SYS   216K
+************************************************************************************************************************************
+*     3. Jobstep of job: DYMINE01    Stepname: GO          Program name: LOADER     Executed on 22.12.20 from 18.11.51 to 18.11.51 *
+*         elapsed time  00:00:00,06                      CPU-Identifier:  TK4-           Page-in:      0                           *
+*             CPU time  00:00:00,06               Virtual Storage used:    332K         Page-out:      0                           *
+*           corr. CPU:  00:00:00,06   CPU time has been corrected by  1 / 1,0  multiplier                                          *
+*                                                                                                                                  *
+*     I/O Operation                                                                                                                *
+*     Number of records read via DD * or DD DATA:      0                                                                           *
+*     190......93 DMY.......0 148......13 DMY.......0 170......88 DMY.......0                                                      *
+*                                                                                                                                  *
+*                                          Charge for step (w/o SYSOUT):          0,10                                             *
+************************************************************************************************************************************
+IEF237I 170  ALLOCATED TO SYS00001
+IEF285I   SYS20357.T181151.RA000.DYMINE01.R0000001     KEPT          *--------0
+IEF285I   VOL SER NOS= WORK01.
+IEF285I   SYS20357.T181150.RA000.DYMINE01.CRIMESRT     DELETED
+IEF285I   VOL SER NOS= WORK01.
+IEF375I  JOB /DYMINE01/ START 20357.1811
+IEF376I  JOB /DYMINE01/ STOP  20357.1811 CPU    0MIN 00.21SEC SRB    0MIN 00.10SEC
+IER036I - B =   84
+IER037I - G =  2370
+IER038I - NMAX =   40992
+IER045I - END SORT PH
+IER049I - SKIP MERGE PH
+IER054I - RCD IN     866,OUT     866
+IER052I - EOJ
+  CB545 V2 LVL78 01MAY72                 IBM OS AMERICAN NATIONAL STANDARD COBOL                       DATE DEC 22,2020
+
+
+   1
+
+
+00001       5 ***
+00002      10 * //////////////////////////////////////////////////////////
+00003      20 * // Name: David Young
+00004      30 * // Program: Calgary Crime Stats
+00005      40 * //////////////////////////////////////////////////////////
+00006     150 ***
+00007     180  IDENTIFICATION DIVISION.
+00008     190  PROGRAM-ID.  'DYMINE01'.
+00009     200 ***
+00010     230  ENVIRONMENT DIVISION.
+00011     250 **
+00012     260  CONFIGURATION SECTION.
+00013     270  SOURCE-COMPUTER.  IBM-360.
+00014     280  OBJECT-COMPUTER.  IBM-360.
+00015     300 **
+00016     310  INPUT-OUTPUT SECTION.
+00017     320  FILE-CONTROL.
+00018     330      SELECT CRIME-DATA-IN-FILE       ASSIGN TO UT-S-CRIMEIN.
+00019     340      SELECT DETAIL-REPORT-OUT-FILE   ASSIGN TO UT-S-DETRPT.
+00020     370 ***
+00021     380  DATA DIVISION.
+00022     400 **
+00023     410  FILE SECTION.
+00024     420  FD  CRIME-DATA-IN-FILE
+00025     430      RECORDING MODE IS F
+00026     440      RECORD CONTAINS 86 CHARACTERS
+00027     442      BLOCK CONTAINS 10 RECORDS
+00028     444      DATA RECORD IS CRIME-DATA-IN-RECORD
+00029     460      LABEL RECORDS ARE OMITTED.
+00030     470  01  CRIME-DATA-IN-RECORD.
+00031     480        05 COMMUNITY-NAME-IN    PIC X(30).
+00032     482        05 CRIME-CATEGORY-IN    PIC X(30).
+00033     484        05 CRIME-COUNT-IN       PIC 9(4).
+00034     486        05 RESIDENT-COUNT-IN    PIC 9(6).
+00035     488        05 YEAR-IN              PIC 9(4).
+00036     490        05 MONTH-IN             PIC X(3).
+00037     492        05 RATE-PER-100K-IN     PIC X(9).
+00038     500  FD  DETAIL-REPORT-OUT-FILE
+00039     530      RECORDING MODE IS F
+00040     540      RECORD CONTAINS 91 CHARACTERS
+00041     560      LABEL RECORDS ARE OMITTED.
+00042     570  01  DETAIL-REPORT-OUT-RECORD.
+00043     580        05 FILLER               PIC X(91).
+00044     590 **
+00045     600  WORKING-STORAGE SECTION.
+00046     610      77   OLD-CRIME-CATEGORY   PIC X(30) VALUE SPACES.
+00047     620      77   END-OF-FILE          PIC X(1)  VALUE SPACES.
+00048     630      77   CALGARY-POP-DIV-100K PIC 99V99 VALUE 15.47.
+00049     640      77   CATEGORY-COUNT-ACCUM PIC 9(6)  VALUE ZEROS.
+00050     642 **
+00051     644      01   REPORT-HEADER-LINE-1.
+00052     650        05 FILLER  PIC X(20)  VALUE SPACES.
+00053     660        05 FILLER  PIC X(28) VALUE '*** CALGARY CRIME STATS FOR '.
+00054     670        05 HEADER-MONTH       PIC X(3).   2
+
+
+00055     680        05 FILLER  PIC X      VALUE SPACES.
+00056     690        05 HEADER-YEAR        PIC 9(4).
+00057     695        05 FILLER  PIC X(4)   VALUE ' ***'.
+00058     697        05 FILLER  PIC X(30)  VALUE SPACES.
+00059     700      01   REPORT-HEADER-LINE-2.
+00060     710        05 FILLER  PIC X(1)   VALUE SPACES.
+00061     715        05 FILLER  PIC X(14)  VALUE 'CRIME CATEGORY'.
+00062     720        05 FILLER  PIC X(18)  VALUE SPACES.
+00063     730        05 FILLER  PIC X(10)  VALUE 'RATE /100K'.
+00064     740        05 FILLER  PIC X(2)   VALUE SPACES.
+00065     750        05 FILLER  PIC X(14)  VALUE 'COMMUNITY NAME'.
+00066     760        05 FILLER  PIC X(18)  VALUE SPACES.
+00067     770        05 FILLER  PIC X(5)   VALUE 'OCCUR'.
+00068     780        05 FILLER  PIC X(2)   VALUE SPACES.
+00069     790        05 FILLER  PIC X(7)   VALUE 'RESIDNT'.
+00070     800      01   REPORT-DETAIL-LINE.
+00071     810        05 FILLER             PIC X(1) VALUE SPACES.
+00072     815        05 CRIME-CATEGORY-OUT PIC X(30).
+00073     820        05 FILLER             PIC X(2) VALUE SPACES.
+00074     825        05 RATE-PER-100K-OUT  PIC ZZZ,ZZ9.99.
+00075     827        05 FILLER             PIC X(2) VALUE SPACES.
+00076     830        05 COMMUNITY-NAME-OUT PIC X(30).
+00077     840        05 FILLER             PIC X(2) VALUE SPACES.
+00078     850        05 CRIME-COUNT-OUT    PIC Z,ZZ9.
+00079     860        05 FILLER             PIC X(2) VALUE SPACES.
+00080     870        05 RESIDENT-COUNT-OUT PIC ZZZ,ZZ9.
+00081     880      01   REPORT-CATEGORY-SUM-LINE.
+00082     890        05 FILLER      PIC X(22) VALUE '  ==> CALGARY TOTAL:  '.
+00083     900        05 FILLER            PIC X(16) VALUE 'RATE PER 100K = '.
+00084     910        05 CALGARY-RATE-100K  PIC ZZZ,ZZ9.99.
+00085     920        05 FILLER            PIC X(16) VALUE '  OCCURRENCES = '.
+00086     930        05 CALGARY-COUNT-OUT  PIC ZZZ,ZZ9.
+00087     933        05 FILLER            PIC X(20) VALUE SPACES.
+00088     940      01   REPORT-LINE-SEPARATOR.
+00089     942        05 DASHES  PIC X(91)  VALUE SPACES.
+00090     944 **
+00091     950 **
+00092    1000  PROCEDURE DIVISION.
+00093    1010 **
+00094    1020  MAIN-PROGRAM.
+00095    1030      PERFORM INITIALIZATION THRU END-INITIALIZATION.
+00096    1040      PERFORM PROCESS-INPUT THRU END-PROCESS-INPUT
+00097    1045        UNTIL END-OF-FILE = 'Y'.
+00098    1050      PERFORM END-OF-PROGRAM.
+00099    1060 **
+00100    1100  INITIALIZATION.
+00101    1105      MOVE ALL '-' TO DASHES.
+00102    1107      OPEN INPUT CRIME-DATA-IN-FILE.
+00103    1110      OPEN OUTPUT DETAIL-REPORT-OUT-FILE.
+00104    1115      READ CRIME-DATA-IN-FILE
+00105    1120        AT END DISPLAY '*** EMPTY INPUT FILE ***' UPON CONSOLE
+00106    1125        STOP RUN.
+00107    1130      IF YEAR-IN IS NOT NUMERIC THEN
+00108    1135        DISPLAY '** NON-NUMERIC YEAR ON 1ST REC **' UPON CONSOLE
+00109    1140        STOP RUN.
+00110    1145      MOVE YEAR-IN TO HEADER-YEAR.
+00111    1150      MOVE MONTH-IN TO HEADER-MONTH.   3
+
+
+00112    1155      WRITE DETAIL-REPORT-OUT-RECORD FROM REPORT-HEADER-LINE-1
+00113    1156        AFTER ADVANCING 1 LINES.
+00114    1157      WRITE DETAIL-REPORT-OUT-RECORD FROM REPORT-LINE-SEPARATOR
+00115    1158        AFTER ADVANCING 1 LINES.
+00116    1160      WRITE DETAIL-REPORT-OUT-RECORD FROM REPORT-HEADER-LINE-2
+00117    1165        AFTER ADVANCING 1 LINES.
+00118    1170      MOVE CRIME-CATEGORY-IN TO OLD-CRIME-CATEGORY.
+00119    1180  END-INITIALIZATION.
+00120    1190      EXIT.
+00121    1195 **
+00122    1200  PROCESS-INPUT.
+00123    1205      IF CRIME-CATEGORY-IN IS NOT = OLD-CRIME-CATEGORY THEN
+00124    1210        PERFORM CHANGE-OF-CATEGORY THRU END-CHANGE-OF-CATEGORY.
+00125    1215      MOVE COMMUNITY-NAME-IN TO COMMUNITY-NAME-OUT.
+00126    1220      MOVE CRIME-CATEGORY-IN TO CRIME-CATEGORY-OUT.
+00127    1225      MOVE CRIME-COUNT-IN TO CRIME-COUNT-OUT.
+00128    1230      COMPUTE RATE-PER-100K-OUT ROUNDED = (CRIME-COUNT-IN * 100000)
+00129    1231        / RESIDENT-COUNT-IN.
+00130    1235      MOVE RESIDENT-COUNT-IN TO RESIDENT-COUNT-OUT.
+00131    1240      WRITE DETAIL-REPORT-OUT-RECORD FROM REPORT-DETAIL-LINE
+00132    1245        AFTER ADVANCING 1 LINES.
+00133    1250      ADD CRIME-COUNT-IN TO CATEGORY-COUNT-ACCUM.
+00134    1260      READ CRIME-DATA-IN-FILE
+00135    1265        AT END MOVE 'Y' TO END-OF-FILE.
+00136    1270  END-PROCESS-INPUT.
+00137    1275      EXIT.
+00138    1280 **
+00139    1300  CHANGE-OF-CATEGORY.
+00140    1305      COMPUTE CALGARY-RATE-100K ROUNDED =
+00141    1310        CATEGORY-COUNT-ACCUM / CALGARY-POP-DIV-100K.
+00142    1315      MOVE CATEGORY-COUNT-ACCUM TO CALGARY-COUNT-OUT.
+00143    1320      MOVE CRIME-CATEGORY-IN TO CRIME-CATEGORY-OUT.
+00144    1340      WRITE DETAIL-REPORT-OUT-RECORD
+00145    1341        FROM REPORT-CATEGORY-SUM-LINE
+00146    1345        AFTER ADVANCING 1 LINES.
+00147    1350      WRITE DETAIL-REPORT-OUT-RECORD FROM REPORT-LINE-SEPARATOR
+00148    1355        AFTER ADVANCING 1 LINES.
+00149    1360      IF END-OF-FILE NOT = 'Y' THEN
+00150    1362        WRITE DETAIL-REPORT-OUT-RECORD FROM REPORT-HEADER-LINE-2
+00151    1364          AFTER ADVANCING 1 LINES.
+00152    1370      MOVE ZEROS TO CATEGORY-COUNT-ACCUM.
+00153    1375      MOVE CRIME-CATEGORY-IN TO OLD-CRIME-CATEGORY.
+00154    1380  END-CHANGE-OF-CATEGORY.
+00155    1385      EXIT.
+00156    1390 **
+00157    1400  END-OF-PROGRAM.
+00158    1405      PERFORM CHANGE-OF-CATEGORY THRU END-CHANGE-OF-CATEGORY.
+00159    1410      CLOSE CRIME-DATA-IN-FILE.
+00160    1415      CLOSE DETAIL-REPORT-OUT-FILE.
+00161    1420      DISPLAY '--- SUCCESSFUL END OF PROGRAM DYMINE01 ---'
+00162    1421        UPON CONSOLE.
+00163    1425      STOP RUN.
+00164    1430 **   4
+
+
+
+*STATISTICS*     SOURCE RECORDS =   164     DATA DIVISION STATEMENTS =    55     PROCEDURE DIVISION STATEMENTS =    46
+*OPTIONS IN EFFECT*     SIZE = 2097152  BUF = 1048576  LINECNT = 57  SPACE1, FLAGW,   SEQ,   SOURCE
+*OPTIONS IN EFFECT*     NODMAP, NOPMAP, NOCLIST,   SUPMAP, NOXREF,   LOAD, NODECK, APOST, NOTRUNC, NOLIB, NOVERB
+*OPTIONS IN EFFECT*       ZWB   5
+
+
+ CARD   ERROR MESSAGE
+
+ 128    IKF5011I-W     AN INTERMEDIATE RESULT OR A SENDING FIELD MIGHT HAVE ITS HIGH ORDER DIGIT POSITION
+                       TRUNCATED.
+ 140    IKF5011I-W     AN INTERMEDIATE RESULT OR A SENDING FIELD MIGHT HAVE ITS HIGH ORDER DIGIT POSITION
+                       TRUNCATED.
+                                                      VS LOADER
+
+OPTIONS USED - PRINT,MAP,LET,CALL,RES,NOTERM,SIZE=307200,NAME=**GO
+
+
+     NAME  TYPE  ADDR        NAME  TYPE  ADDR        NAME  TYPE  ADDR        NAME  TYPE  ADDR        NAME  TYPE  ADDR
+
+  DYMINE01   SD  AC010    ILBOSTP0*  SD  ACE90    ILBOSTP1*  LR  ACEA6    ILBOWTB0*  SD  ACEC8
+
+  TOTAL LENGTH      FB8
+  ENTRY ADDRESS   AC010
+
+                   *** CALGARY CRIME STATS FOR SEP 2020 ***
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Assault (Non-domestic)           54,545.45  SUNRIDGE                            6       11
+Assault (Non-domestic)              813.01  FOREST LAWN INDUSTRIAL              1      123
+Assault (Non-domestic)              630.91  FOOTHILLS                           2      317
+Assault (Non-domestic)              357.02  DOWNTOWN COMMERCIAL CORE           31    8,683
+Assault (Non-domestic)              331.13  EAGLE RIDGE                         1      302
+Assault (Non-domestic)              308.25  DOWNTOWN EAST VILLAGE              12    3,893
+Assault (Non-domestic)              283.69  UNIVERSITY DISTRICT                 2      705
+Assault (Non-domestic)              177.41  PARKHILL                            3    1,691
+Assault (Non-domestic)              166.94  NORTH HAVEN UPPER                   1      599
+Assault (Non-domestic)              157.48  ERLTON                              2    1,270
+Assault (Non-domestic)              155.28  MEADOWLARK PARK                     1      644
+Assault (Non-domestic)              153.57  FOREST LAWN                        12    7,814
+Assault (Non-domestic)              142.96  HOUNSFIELD HEIGHTS/BRIAR HILL       4    2,798
+Assault (Non-domestic)              127.34  BELTLINE                           32   25,129
+Assault (Non-domestic)              111.61  GREENWOOD/GREENBRIAR                1      896
+Assault (Non-domestic)              111.42  ST. ANDREWS HEIGHTS                 2    1,795
+Assault (Non-domestic)              110.34  ROSSCARROCK                         4    3,625
+Assault (Non-domestic)              107.72  DOWNTOWN WEST END                   3    2,785
+Assault (Non-domestic)              105.54  CLIFF BUNGALOW                      2    1,895
+Assault (Non-domestic)               97.56  MANCHESTER                          1    1,025
+Assault (Non-domestic)               94.56  SUNNYSIDE                           4    4,230
+Assault (Non-domestic)               88.18  SETON                               1    1,134
+Assault (Non-domestic)               85.32  KINGSLAND                           4    4,688
+Assault (Non-domestic)               84.32  CAPITOL HILL                        4    4,744
+Assault (Non-domestic)               77.94  PARKDALE                            2    2,566
+Assault (Non-domestic)               77.01  COUNTRY HILLS VILLAGE               2    2,597
+Assault (Non-domestic)               73.15  BRIDGELAND/RIVERSIDE                5    6,835
+Assault (Non-domestic)               72.33  GLENDALE                            2    2,765
+Assault (Non-domestic)               68.45  RUNDLE                              8   11,688
+Assault (Non-domestic)               65.49  MARLBOROUGH                         6    9,162
+Assault (Non-domestic)               65.25  MISSION                             3    4,598
+Assault (Non-domestic)               62.78  BOWNESS                             7   11,150
+Assault (Non-domestic)               61.50  SHAGANAPPI                          1    1,626
+Assault (Non-domestic)               60.17  CHINOOK PARK                        1    1,662
+Assault (Non-domestic)               57.85  LOWER MOUNT ROYAL                   2    3,457
+Assault (Non-domestic)               57.01  ELBOYA                              1    1,754
+Assault (Non-domestic)               55.02  WINSTON HEIGHTS/MOUNTVIEW           2    3,635
+Assault (Non-domestic)               53.37  SHAWNESSY                           5    9,368
+Assault (Non-domestic)               52.11  HIGHLAND PARK                       2    3,838
+Assault (Non-domestic)               51.68  BRAESIDE                            3    5,805
+Assault (Non-domestic)               49.26  EAU CLAIRE                          1    2,030
+Assault (Non-domestic)               47.09  ARBOUR LAKE                         5   10,619
+Assault (Non-domestic)               46.53  WEST HILLHURST                      3    6,447
+Assault (Non-domestic)               46.18  FOREST HEIGHTS                      3    6,496
+Assault (Non-domestic)               46.00  GLAMORGAN                           3    6,522
+Assault (Non-domestic)               45.75  HILLHURST                           3    6,558
+Assault (Non-domestic)               44.71  HUNTINGTON HILLS                    6   13,420
+Assault (Non-domestic)               44.46  COLLINGWOOD                         1    2,249
+Assault (Non-domestic)               44.30  MONTGOMERY                          2    4,515
+Assault (Non-domestic)               44.29  HIGHWOOD                            1    2,258
+Assault (Non-domestic)               42.80  SPRUCE CLIFF                        2    4,673
+Assault (Non-domestic)               42.19  VISTA HEIGHTS                       1    2,370
+Assault (Non-domestic)               40.47  CHINATOWN                           1    2,471
+Assault (Non-domestic)               39.91  PINERIDGE                           4   10,022
+Assault (Non-domestic)               37.55  FALCONRIDGE                         4   10,653
+Assault (Non-domestic)               37.55  TUXEDO PARK                         2    5,326
+Assault (Non-domestic)               35.15  OAKRIDGE                            2    5,690
+Assault (Non-domestic)               35.07  PENBROOKE MEADOWS                   3    8,554
+Assault (Non-domestic)               34.74  BEDDINGTON HEIGHTS                  4   11,514
+Assault (Non-domestic)               34.23  UNIVERSITY HEIGHTS                  1    2,921
+Assault (Non-domestic)               31.15  LEGACY                              2    6,420
+Assault (Non-domestic)               30.87  SUNALTA                             1    3,239
+Assault (Non-domestic)               30.39  RENFREW                             2    6,582
+Assault (Non-domestic)               28.98  DOVER                               3   10,351
+Assault (Non-domestic)               28.58  ALBERT PARK/RADISSON HEIGHTS        2    6,997
+Assault (Non-domestic)               28.37  ERIN WOODS                          2    7,049
+Assault (Non-domestic)               27.51  MIDNAPORE                           2    7,270
+Assault (Non-domestic)               26.95  HARVEST HILLS                       2    7,420
+Assault (Non-domestic)               26.87  GLENBROOK                           2    7,442
+Assault (Non-domestic)               26.02  KILLARNEY/GLENGARRY                 2    7,685
+Assault (Non-domestic)               25.17  DEER RIDGE                          1    3,973
+Assault (Non-domestic)               24.96  WHITEHORN                           3   12,019
+Assault (Non-domestic)               24.08  BANFF TRAIL                         1    4,153
+Assault (Non-domestic)               23.80  PATTERSON                           1    4,202
+Assault (Non-domestic)               23.41  SOMERSET                            2    8,543
+Assault (Non-domestic)               23.32  OGDEN                               2    8,576
+Assault (Non-domestic)               22.76  THORNCLIFFE                         2    8,788
+Assault (Non-domestic)               22.51  SOUTH CALGARY                       1    4,442
+Assault (Non-domestic)               20.15  RICHMOND                            1    4,962
+Assault (Non-domestic)               18.22  TEMPLE                              2   10,977
+Assault (Non-domestic)               17.92  SADDLE RIDGE                        4   22,321
+Assault (Non-domestic)               16.32  CASTLERIDGE                         1    6,127
+Assault (Non-domestic)               16.01  SHERWOOD                            1    6,246
+Assault (Non-domestic)               16.01  SOUTHWOOD                           1    6,246
+Assault (Non-domestic)               15.11  CRESCENT HEIGHTS                    1    6,620
+Assault (Non-domestic)               15.09  TUSCANY                             3   19,884
+Assault (Non-domestic)               14.12  HAYSBORO                            1    7,080
+Assault (Non-domestic)               13.95  EVERGREEN                           3   21,500
+Assault (Non-domestic)               13.76  BRENTWOOD                           1    7,267
+Assault (Non-domestic)               13.12  CANYON MEADOWS                      1    7,624
+Assault (Non-domestic)               13.06  SILVERADO                           1    7,655
+Assault (Non-domestic)               12.40  SCENIC ACRES                        1    8,067
+Assault (Non-domestic)               11.91  ROCKY RIDGE                         1    8,398
+Assault (Non-domestic)               11.73  MARLBOROUGH PARK                    1    8,523
+Assault (Non-domestic)               11.19  DALHOUSIE                           1    8,940
+Assault (Non-domestic)               10.94  MCKENZIE TOWNE                      2   18,283
+Assault (Non-domestic)               10.82  RIVERBEND                           1    9,244
+Assault (Non-domestic)               10.59  ASPEN WOODS                         1    9,446
+Assault (Non-domestic)                9.64  MONTEREY PARK                       1   10,372
+Assault (Non-domestic)                9.51  ACADIA                              1   10,520
+Assault (Non-domestic)                8.65  HIDDEN VALLEY                       1   11,566
+Assault (Non-domestic)                8.54  SKYVIEW RANCH                       1   11,707
+Assault (Non-domestic)                7.91  BRIDLEWOOD                          1   12,641
+Assault (Non-domestic)                7.76  DOUGLASDALE/GLEN                    1   12,881
+Assault (Non-domestic)                7.77  VARSITY                             1   12,874
+Assault (Non-domestic)                7.78  PANORAMA HILLS                      2   25,710
+Assault (Non-domestic)                7.46  MCKENZIE LAKE                       1   13,406
+Assault (Non-domestic)                7.47  SIGNAL HILL                         1   13,395
+Assault (Non-domestic)                7.02  MARTINDALE                          1   14,245
+Assault (Non-domestic)                5.66  COVENTRY HILLS                      1   17,667
+Assault (Non-domestic)                5.68  AUBURN BAY                          1   17,607
+Assault (Non-domestic)                5.26  TARADALE                            1   19,026
+ ==> CALGARY TOTAL:  RATE PER 100K =      20.49  OCCURRENCES =     317
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Break & Enter - Commercial       12,000.00  SADDLE RIDGE INDUSTRIAL             3       25
+Break & Enter - Commercial        9,090.91  SUNRIDGE                            1       11
+Break & Enter - Commercial        2,666.67  GREENVIEW INDUSTRIAL PARK           6      225
+Break & Enter - Commercial        1,261.83  FOOTHILLS                           4      317
+Break & Enter - Commercial          813.01  FOREST LAWN INDUSTRIAL              1      123
+Break & Enter - Commercial          392.16  SHEPARD INDUSTRIAL                  1      255
+Break & Enter - Commercial          292.68  MANCHESTER                          3    1,025
+Break & Enter - Commercial          264.55  SETON                               3    1,134
+Break & Enter - Commercial          223.21  GREENWOOD/GREENBRIAR                2      896
+Break & Enter - Commercial          217.49  MISSION                            10    4,598
+Break & Enter - Commercial          198.81  INGLEWOOD                           8    4,024
+Break & Enter - Commercial          181.27  CRESCENT HEIGHTS                   12    6,620
+Break & Enter - Commercial          173.56  LOWER MOUNT ROYAL                   6    3,457
+Break & Enter - Commercial          158.31  CLIFF BUNGALOW                      3    1,895
+Break & Enter - Commercial          154.37  SUNALTA                             5    3,239
+Break & Enter - Commercial          147.78  EAU CLAIRE                          3    2,030
+Break & Enter - Commercial          141.07  RICHMOND                            7    4,962
+Break & Enter - Commercial          133.16  BAYVIEW                             1      751
+Break & Enter - Commercial          115.17  DOWNTOWN COMMERCIAL CORE           10    8,683
+Break & Enter - Commercial          114.03  ELBOYA                              2    1,754
+Break & Enter - Commercial          112.99  HAYSBORO                            8    7,080
+Break & Enter - Commercial          107.41  SCARBORO                            1      931
+Break & Enter - Commercial           89.77  ELBOW PARK                          3    3,342
+Break & Enter - Commercial           87.78  BRIDGELAND/RIVERSIDE                6    6,835
+Break & Enter - Commercial           84.50  UNIVERSITY OF CALGARY               2    2,367
+Break & Enter - Commercial           78.74  ERLTON                              1    1,270
+Break & Enter - Commercial           76.24  HILLHURST                           5    6,558
+Break & Enter - Commercial           71.48  HOUNSFIELD HEIGHTS/BRIAR HILL       2    2,798
+Break & Enter - Commercial           70.92  SUNNYSIDE                           3    4,230
+Break & Enter - Commercial           67.70  LIVINGSTON                          1    1,477
+Break & Enter - Commercial           63.99  KINGSLAND                           3    4,688
+Break & Enter - Commercial           63.24  CAPITOL HILL                        3    4,744
+Break & Enter - Commercial           62.74  RED CARPET                          1    1,594
+Break & Enter - Commercial           60.17  CHINOOK PARK                        1    1,662
+Break & Enter - Commercial           59.14  PARKHILL                            1    1,691
+Break & Enter - Commercial           57.17  ALBERT PARK/RADISSON HEIGHTS        4    6,997
+Break & Enter - Commercial           56.50  ARBOUR LAKE                         6   10,619
+Break & Enter - Commercial           54.47  PALLISER                            2    3,672
+Break & Enter - Commercial           51.37  DOWNTOWN EAST VILLAGE               2    3,893
+Break & Enter - Commercial           48.54  GARRISON GREEN                      1    2,060
+Break & Enter - Commercial           48.16  BANFF TRAIL                         2    4,153
+Break & Enter - Commercial           47.75  BELTLINE                           12   25,129
+Break & Enter - Commercial           46.53  WEST HILLHURST                      3    6,447
+Break & Enter - Commercial           46.34  RAMSAY                              1    2,158
+Break & Enter - Commercial           45.02  SOUTH CALGARY                       2    4,442
+Break & Enter - Commercial           44.29  HIGHWOOD                            1    2,258
+Break & Enter - Commercial           43.63  WINDSOR PARK                        2    4,584
+Break & Enter - Commercial           43.38  KELVIN GROVE                        1    2,305
+Break & Enter - Commercial           41.82  NORTH GLENMORE PARK                 1    2,391
+Break & Enter - Commercial           40.36  UPPER MOUNT ROYAL                   1    2,478
+Break & Enter - Commercial           39.04  KILLARNEY/GLENGARRY                 3    7,685
+Break & Enter - Commercial           38.86  LAKE BONAVISTA                      4   10,293
+Break & Enter - Commercial           38.21  LINCOLN PARK                        1    2,617
+Break & Enter - Commercial           37.35  LAKEVIEW                            2    5,355
+Break & Enter - Commercial           36.17  GLENDALE                            1    2,765
+Break & Enter - Commercial           35.91  DOWNTOWN WEST END                   1    2,785
+Break & Enter - Commercial           33.94  MAHOGANY                            4   11,784
+Break & Enter - Commercial           33.96  MOUNT PLEASANT                      2    5,889
+Break & Enter - Commercial           32.02  SHAWNESSY                           3    9,368
+Break & Enter - Commercial           31.07  VARSITY                             4   12,874
+Break & Enter - Commercial           29.93  PINERIDGE                           3   10,022
+Break & Enter - Commercial           28.99  MILLRISE                            2    6,900
+Break & Enter - Commercial           27.43  FAIRVIEW                            1    3,646
+Break & Enter - Commercial           26.91  BOWNESS                             3   11,150
+Break & Enter - Commercial           26.95  HARVEST HILLS                       2    7,420
+Break & Enter - Commercial           26.06  HIGHLAND PARK                       1    3,838
+Break & Enter - Commercial           25.17  DEER RIDGE                          1    3,973
+Break & Enter - Commercial           23.41  SOMERSET                            2    8,543
+Break & Enter - Commercial           23.38  PENBROOKE MEADOWS                   2    8,554
+Break & Enter - Commercial           21.40  SPRUCE CLIFF                        1    4,673
+Break & Enter - Commercial           19.03  BANKVIEW                            1    5,256
+Break & Enter - Commercial           18.78  TUXEDO PARK                         1    5,326
+Break & Enter - Commercial           18.77  WILLOW PARK                         1    5,328
+Break & Enter - Commercial           17.23  BRAESIDE                            1    5,805
+Break & Enter - Commercial           16.01  SOUTHWOOD                           1    6,246
+Break & Enter - Commercial           16.01  SHERWOOD                            1    6,246
+Break & Enter - Commercial           15.39  FOREST HEIGHTS                      1    6,496
+Break & Enter - Commercial           15.33  GLAMORGAN                           1    6,522
+Break & Enter - Commercial           14.59  STRATHCONA PARK                     1    6,855
+Break & Enter - Commercial           14.52  KINCORA                             1    6,889
+Break & Enter - Commercial           14.19  ERIN WOODS                          1    7,049
+Break & Enter - Commercial           13.76  MIDNAPORE                           1    7,270
+Break & Enter - Commercial           13.44  GLENBROOK                           1    7,442
+Break & Enter - Commercial           11.73  MARLBOROUGH PARK                    1    8,523
+Break & Enter - Commercial           11.66  OGDEN                               1    8,576
+Break & Enter - Commercial           11.31  EVANSTON                            2   17,685
+Break & Enter - Commercial           11.19  DALHOUSIE                           1    8,940
+Break & Enter - Commercial           10.82  RIVERBEND                           1    9,244
+Break & Enter - Commercial           10.27  SUNDANCE                            1    9,736
+Break & Enter - Commercial           10.06  SPRINGBANK HILL                     1    9,943
+Break & Enter - Commercial            9.51  ACADIA                              1   10,520
+Break & Enter - Commercial            9.39  FALCONRIDGE                         1   10,653
+Break & Enter - Commercial            9.11  TEMPLE                              1   10,977
+Break & Enter - Commercial            8.65  HIDDEN VALLEY                       1   11,566
+Break & Enter - Commercial            8.56  RUNDLE                              1   11,688
+Break & Enter - Commercial            8.32  WHITEHORN                           1   12,019
+Break & Enter - Commercial            7.47  SIGNAL HILL                         1   13,395
+Break & Enter - Commercial            7.46  MCKENZIE LAKE                       1   13,406
+Break & Enter - Commercial            7.02  MARTINDALE                          1   14,245
+Break & Enter - Commercial            5.47  MCKENZIE TOWNE                      1   18,283
+Break & Enter - Commercial            4.65  EVERGREEN                           1   21,500
+ ==> CALGARY TOTAL:  RATE PER 100K =      16.03  OCCURRENCES =     248
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Break & Enter - Dwelling          9,090.91  SUNRIDGE                            1       11
+Break & Enter - Dwelling            256.41  BEL-AIRE                            1      390
+Break & Enter - Dwelling            231.48  MAYFAIR                             1      432
+Break & Enter - Dwelling            168.35  RIDEAU PARK                         1      594
+Break & Enter - Dwelling            111.42  ST. ANDREWS HEIGHTS                 2    1,795
+Break & Enter - Dwelling             92.48  COACH HILL                          3    3,244
+Break & Enter - Dwelling             67.39  HARVEST HILLS                       5    7,420
+Break & Enter - Dwelling             65.07  WEST SPRINGS                        7   10,758
+Break & Enter - Dwelling             64.10  ROSEDALE                            1    1,560
+Break & Enter - Dwelling             57.01  ELBOYA                              1    1,754
+Break & Enter - Dwelling             55.17  ROSSCARROCK                         2    3,625
+Break & Enter - Dwelling             54.34  DOUGLASDALE/GLEN                    7   12,881
+Break & Enter - Dwelling             48.54  GARRISON GREEN                      1    2,060
+Break & Enter - Dwelling             46.34  RAMSAY                              1    2,158
+Break & Enter - Dwelling             44.46  COLLINGWOOD                         1    2,249
+Break & Enter - Dwelling             44.19  RUTLAND PARK                        1    2,263
+Break & Enter - Dwelling             43.76  STRATHCONA PARK                     3    6,855
+Break & Enter - Dwelling             42.88  ALBERT PARK/RADISSON HEIGHTS        3    6,997
+Break & Enter - Dwelling             38.05  BANKVIEW                            2    5,256
+Break & Enter - Dwelling             36.17  GLENDALE                            1    2,765
+Break & Enter - Dwelling             35.74  HOUNSFIELD HEIGHTS/BRIAR HILL       1    2,798
+Break & Enter - Dwelling             35.15  OAKRIDGE                            2    5,690
+Break & Enter - Dwelling             34.48  CORAL SPRINGS                       2    5,801
+Break & Enter - Dwelling             34.23  UNIVERSITY HEIGHTS                  1    2,921
+Break & Enter - Dwelling             33.88  SANDSTONE VALLEY                    2    5,904
+Break & Enter - Dwelling             32.82  CEDARBRAE                           2    6,094
+Break & Enter - Dwelling             31.15  LEGACY                              2    6,420
+Break & Enter - Dwelling             31.02  WEST HILLHURST                      2    6,447
+Break & Enter - Dwelling             30.21  CRESCENT HEIGHTS                    2    6,620
+Break & Enter - Dwelling             29.92  ELBOW PARK                          1    3,342
+Break & Enter - Dwelling             28.25  ARBOUR LAKE                         3   10,619
+Break & Enter - Dwelling             27.43  FAIRVIEW                            1    3,646
+Break & Enter - Dwelling             26.55  COUNTRY HILLS                       1    3,767
+Break & Enter - Dwelling             25.69  DOWNTOWN EAST VILLAGE               1    3,893
+Break & Enter - Dwelling             23.82  ROCKY RIDGE                         2    8,398
+Break & Enter - Dwelling             23.64  SUNNYSIDE                           1    4,230
+Break & Enter - Dwelling             22.72  AUBURN BAY                          4   17,607
+Break & Enter - Dwelling             22.51  SOUTH CALGARY                       1    4,442
+Break & Enter - Dwelling             22.40  SIGNAL HILL                         3   13,395
+Break & Enter - Dwelling             21.83  MARLBOROUGH                         2    9,162
+Break & Enter - Dwelling             21.75  MISSION                             1    4,598
+Break & Enter - Dwelling             21.17  ASPEN WOODS                         2    9,446
+Break & Enter - Dwelling             21.03  MACEWAN GLEN                        1    4,754
+Break & Enter - Dwelling             20.15  RICHMOND                            1    4,962
+Break & Enter - Dwelling             20.11  SPRINGBANK HILL                     2    9,943
+Break & Enter - Dwelling             19.74  DEER RUN                            1    5,065
+Break & Enter - Dwelling             19.49  EDGEMONT                            3   15,395
+Break & Enter - Dwelling             19.32  DOVER                               2   10,351
+Break & Enter - Dwelling             18.77  WILLOW PARK                         1    5,328
+Break & Enter - Dwelling             18.60  EVERGREEN                           4   21,500
+Break & Enter - Dwelling             18.67  LAKEVIEW                            1    5,355
+Break & Enter - Dwelling             18.22  TEMPLE                              2   10,977
+Break & Enter - Dwelling             17.08  SKYVIEW RANCH                       2   11,707
+Break & Enter - Dwelling             16.98  MOUNT PLEASANT                      1    5,889
+Break & Enter - Dwelling             16.78  MAYLAND HEIGHTS                     1    5,961
+Break & Enter - Dwelling             16.64  WHITEHORN                           2   12,019
+Break & Enter - Dwelling             16.01  SOUTHWOOD                           1    6,246
+Break & Enter - Dwelling             16.06  WALDEN                              1    6,228
+Break & Enter - Dwelling             15.81  CHAPARRAL                           2   12,654
+Break & Enter - Dwelling             15.33  GLAMORGAN                           1    6,522
+Break & Enter - Dwelling             14.92  MCKENZIE LAKE                       2   13,406
+Break & Enter - Dwelling             14.63  BRIDGELAND/RIVERSIDE                1    6,835
+Break & Enter - Dwelling             14.47  COPPERFIELD                         2   13,823
+Break & Enter - Dwelling             14.49  MILLRISE                            1    6,900
+Break & Enter - Dwelling             14.29  COUGAR RIDGE                        1    6,997
+Break & Enter - Dwelling             14.19  ERIN WOODS                          1    7,049
+Break & Enter - Dwelling             13.55  HAMPTONS                            1    7,382
+Break & Enter - Dwelling             13.32  NOLAN HILL                          1    7,505
+Break & Enter - Dwelling             13.12  CANYON MEADOWS                      1    7,624
+Break & Enter - Dwelling             13.01  KILLARNEY/GLENGARRY                 1    7,685
+Break & Enter - Dwelling             12.80  FOREST LAWN                         1    7,814
+Break & Enter - Dwelling             12.40  SCENIC ACRES                        1    8,067
+Break & Enter - Dwelling             11.94  BELTLINE                            3   25,129
+Break & Enter - Dwelling             11.71  SOMERSET                            1    8,543
+Break & Enter - Dwelling             11.73  MARLBOROUGH PARK                    1    8,523
+Break & Enter - Dwelling             11.66  OGDEN                               1    8,576
+Break & Enter - Dwelling             11.52  DOWNTOWN COMMERCIAL CORE            1    8,683
+Break & Enter - Dwelling             11.32  COVENTRY HILLS                      2   17,667
+Break & Enter - Dwelling             11.28  WOODBINE                            1    8,866
+Break & Enter - Dwelling             11.19  DALHOUSIE                           1    8,940
+Break & Enter - Dwelling             10.51  TARADALE                            2   19,026
+Break & Enter - Dwelling             10.06  TUSCANY                             2   19,884
+Break & Enter - Dwelling              9.92  CITADEL                             1   10,077
+Break & Enter - Dwelling              9.98  PINERIDGE                           1   10,022
+Break & Enter - Dwelling              9.72  LAKE BONAVISTA                      1   10,293
+Break & Enter - Dwelling              9.64  MONTEREY PARK                       1   10,372
+Break & Enter - Dwelling              9.39  FALCONRIDGE                         1   10,653
+Break & Enter - Dwelling              8.97  BOWNESS                             1   11,150
+Break & Enter - Dwelling              8.96  SADDLE RIDGE                        2   22,321
+Break & Enter - Dwelling              8.65  HIDDEN VALLEY                       1   11,566
+Break & Enter - Dwelling              7.45  HUNTINGTON HILLS                    1   13,420
+Break & Enter - Dwelling              7.02  MARTINDALE                          1   14,245
+Break & Enter - Dwelling              3.89  PANORAMA HILLS                      1   25,710
+ ==> CALGARY TOTAL:  RATE PER 100K =       9.95  OCCURRENCES =     154
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Break & Enter - Other Premises      465.84  MEADOWLARK PARK                     3      644
+Break & Enter - Other Premises      392.16  SHEPARD INDUSTRIAL                  1      255
+Break & Enter - Other Premises      310.22  WEST HILLHURST                     20    6,447
+Break & Enter - Other Premises      281.64  TUXEDO PARK                        15    5,326
+Break & Enter - Other Premises      241.84  RICHMOND                           12    4,962
+Break & Enter - Other Premises      214.82  SCARBORO                            2      931
+Break & Enter - Other Premises      201.78  UPPER MOUNT ROYAL                   5    2,478
+Break & Enter - Other Premises      191.99  FAIRVIEW                            7    3,646
+Break & Enter - Other Premises      173.54  KELVIN GROVE                        4    2,305
+Break & Enter - Other Premises      168.35  RIDEAU PARK                         1      594
+Break & Enter - Other Premises      167.29  NORTH GLENMORE PARK                 4    2,391
+Break & Enter - Other Premises      147.55  CAPITOL HILL                        7    4,744
+Break & Enter - Other Premises      133.08  ACADIA                             14   10,520
+Break & Enter - Other Premises      131.38  WILLOW PARK                         7    5,328
+Break & Enter - Other Premises      130.28  HIGHLAND PARK                       5    3,838
+Break & Enter - Other Premises      123.00  SHAGANAPPI                          2    1,626
+Break & Enter - Other Premises      120.85  CRESCENT HEIGHTS                    8    6,620
+Break & Enter - Other Premises      120.34  CHINOOK PARK                        2    1,662
+Break & Enter - Other Premises      120.39  BANFF TRAIL                         5    4,153
+Break & Enter - Other Premises      116.91  PARKDALE                            3    2,566
+Break & Enter - Other Premises      111.61  GREENWOOD/GREENBRIAR                1      896
+Break & Enter - Other Premises      107.22  HOUNSFIELD HEIGHTS/BRIAR HILL       3    2,798
+Break & Enter - Other Premises      101.88  MOUNT PLEASANT                      6    5,889
+Break & Enter - Other Premises      100.84  ALTADORE                            7    6,942
+Break & Enter - Other Premises       98.52  EAU CLAIRE                          2    2,030
+Break & Enter - Other Premises       97.56  MANCHESTER                          1    1,025
+Break & Enter - Other Premises       91.09  KILLARNEY/GLENGARRY                 7    7,685
+Break & Enter - Other Premises       89.77  ELBOW PARK                          3    3,342
+Break & Enter - Other Premises       88.57  HIGHWOOD                            2    2,258
+Break & Enter - Other Premises       82.53  WINSTON HEIGHTS/MOUNTVIEW           3    3,635
+Break & Enter - Other Premises       79.24  CURRIE BARRACKS                     1    1,262
+Break & Enter - Other Premises       78.74  ERLTON                              1    1,270
+Break & Enter - Other Premises       72.33  GLENDALE                            2    2,765
+Break & Enter - Other Premises       69.13  SILVER SPRINGS                      6    8,679
+Break & Enter - Other Premises       67.54  SOUTH CALGARY                       3    4,442
+Break & Enter - Other Premises       64.18  GARRISON WOODS                      2    3,116
+Break & Enter - Other Premises       61.65  COACH HILL                          2    3,244
+Break & Enter - Other Premises       60.99  HILLHURST                           4    6,558
+Break & Enter - Other Premises       58.45  PENBROOKE MEADOWS                   5    8,554
+Break & Enter - Other Premises       57.01  ELBOYA                              1    1,754
+Break & Enter - Other Premises       56.50  HAYSBORO                            4    7,080
+Break & Enter - Other Premises       55.71  ST. ANDREWS HEIGHTS                 1    1,795
+Break & Enter - Other Premises       53.91  HARVEST HILLS                       4    7,420
+Break & Enter - Other Premises       51.68  BRAESIDE                            3    5,805
+Break & Enter - Other Premises       49.70  INGLEWOOD                           2    4,024
+Break & Enter - Other Premises       49.12  CAMBRIAN HEIGHTS                    1    2,036
+Break & Enter - Other Premises       47.28  SUNNYSIDE                           2    4,230
+Break & Enter - Other Premises       46.34  RAMSAY                              1    2,158
+Break & Enter - Other Premises       43.89  BRIDGELAND/RIVERSIDE                3    6,835
+Break & Enter - Other Premises       43.63  WINDSOR PARK                        2    4,584
+Break & Enter - Other Premises       43.50  MISSION                             2    4,598
+Break & Enter - Other Premises       42.88  ALBERT PARK/RADISSON HEIGHTS        3    6,997
+Break & Enter - Other Premises       38.64  DOVER                               4   10,351
+Break & Enter - Other Premises       37.35  LAKEVIEW                            2    5,355
+Break & Enter - Other Premises       35.10  MARTINDALE                          5   14,245
+Break & Enter - Other Premises       32.22  CITYSCAPE                           1    3,104
+Break & Enter - Other Premises       30.87  SUNALTA                             1    3,239
+Break & Enter - Other Premises       30.79  FOREST HEIGHTS                      2    6,496
+Break & Enter - Other Premises       30.39  RENFREW                             2    6,582
+Break & Enter - Other Premises       28.02  CHARLESWOOD                         1    3,569
+Break & Enter - Other Premises       27.52  BRENTWOOD                           2    7,267
+Break & Enter - Other Premises       26.87  GLENBROOK                           2    7,442
+Break & Enter - Other Premises       25.60  FOREST LAWN                         2    7,814
+Break & Enter - Other Premises       25.67  RUNDLE                              3   11,688
+Break & Enter - Other Premises       24.96  WHITEHORN                           3   12,019
+Break & Enter - Other Premises       22.56  WOODBINE                            2    8,866
+Break & Enter - Other Premises       21.33  KINGSLAND                           1    4,688
+Break & Enter - Other Premises       21.08  QUEENSLAND                          1    4,743
+Break & Enter - Other Premises       21.03  MACEWAN GLEN                        1    4,754
+Break & Enter - Other Premises       21.02  TARADALE                            4   19,026
+Break & Enter - Other Premises       19.43  LAKE BONAVISTA                      2   10,293
+Break & Enter - Other Premises       18.77  FALCONRIDGE                         2   10,653
+Break & Enter - Other Premises       17.94  BOWNESS                             2   11,150
+Break & Enter - Other Premises       17.91  VALLEY RIDGE                        1    5,585
+Break & Enter - Other Premises       17.29  HIDDEN VALLEY                       2   11,566
+Break & Enter - Other Premises       17.08  SKYVIEW RANCH                       2   11,707
+Break & Enter - Other Premises       16.78  MAYLAND HEIGHTS                     1    5,961
+Break & Enter - Other Premises       16.79  ABBEYDALE                           1    5,957
+Break & Enter - Other Premises       16.41  CEDARBRAE                           1    6,094
+Break & Enter - Other Premises       16.01  SOUTHWOOD                           1    6,246
+Break & Enter - Other Premises       15.33  GLAMORGAN                           1    6,522
+Break & Enter - Other Premises       14.90  HUNTINGTON HILLS                    2   13,420
+Break & Enter - Other Premises       14.32  APPLEWOOD PARK                      1    6,981
+Break & Enter - Other Premises       14.29  COUGAR RIDGE                        1    6,997
+Break & Enter - Other Premises       14.19  ERIN WOODS                          1    7,049
+Break & Enter - Other Premises       13.76  MIDNAPORE                           1    7,270
+Break & Enter - Other Premises       13.12  CANYON MEADOWS                      1    7,624
+Break & Enter - Other Premises       11.71  SOMERSET                            1    8,543
+Break & Enter - Other Premises       11.52  DOWNTOWN COMMERCIAL CORE            1    8,683
+Break & Enter - Other Premises       11.32  COVENTRY HILLS                      2   17,667
+Break & Enter - Other Premises       10.91  MARLBOROUGH                         1    9,162
+Break & Enter - Other Premises       10.94  MCKENZIE TOWNE                      2   18,283
+Break & Enter - Other Premises        9.11  TEMPLE                              1   10,977
+Break & Enter - Other Premises        8.69  BEDDINGTON HEIGHTS                  1   11,514
+Break & Enter - Other Premises        7.96  BELTLINE                            2   25,129
+Break & Enter - Other Premises        7.77  VARSITY                             1   12,874
+Break & Enter - Other Premises        7.47  SIGNAL HILL                         1   13,395
+Break & Enter - Other Premises        5.03  CRANSTON                            1   19,884
+Break & Enter - Other Premises        4.65  EVERGREEN                           1   21,500
+Break & Enter - Other Premises        4.48  SADDLE RIDGE                        1   22,321
+ ==> CALGARY TOTAL:  RATE PER 100K =      19.07  OCCURRENCES =     295
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Commercial Robbery                   32.74  MARLBOROUGH                         3    9,162
+Commercial Robbery                   30.79  FOREST HEIGHTS                      2    6,496
+Commercial Robbery                   27.43  FAIRVIEW                            1    3,646
+Commercial Robbery                   23.88  BELTLINE                            6   25,129
+Commercial Robbery                   23.03  DOWNTOWN COMMERCIAL CORE            2    8,683
+Commercial Robbery                   21.75  MISSION                             1    4,598
+Commercial Robbery                   21.08  CAPITOL HILL                        1    4,744
+Commercial Robbery                   18.78  TUXEDO PARK                         1    5,326
+Commercial Robbery                   18.77  WILLOW PARK                         1    5,328
+Commercial Robbery                   18.67  LAKEVIEW                            1    5,355
+Commercial Robbery                   16.98  MOUNT PLEASANT                      1    5,889
+Commercial Robbery                   15.25  HILLHURST                           1    6,558
+Commercial Robbery                   15.11  CRESCENT HEIGHTS                    1    6,620
+Commercial Robbery                   14.59  STRATHCONA PARK                     1    6,855
+Commercial Robbery                   13.12  CANYON MEADOWS                      1    7,624
+Commercial Robbery                   13.06  SILVERADO                           1    7,655
+Commercial Robbery                   11.38  THORNCLIFFE                         1    8,788
+Commercial Robbery                   10.59  ASPEN WOODS                         1    9,446
+Commercial Robbery                   10.06  SPRINGBANK HILL                     1    9,943
+Commercial Robbery                    9.98  PINERIDGE                           1   10,022
+Commercial Robbery                    9.66  DOVER                               1   10,351
+Commercial Robbery                    9.42  ARBOUR LAKE                         1   10,619
+Commercial Robbery                    9.39  FALCONRIDGE                         1   10,653
+Commercial Robbery                    7.76  DOUGLASDALE/GLEN                    1   12,881
+Commercial Robbery                    7.47  SIGNAL HILL                         1   13,395
+ ==> CALGARY TOTAL:  RATE PER 100K =       2.20  OCCURRENCES =      34
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Street Robbery                       92.13  DOWNTOWN COMMERCIAL CORE            8    8,683
+Street Robbery                       88.18  SETON                               1    1,134
+Street Robbery                       59.14  PARKHILL                            1    1,691
+Street Robbery                       51.37  DOWNTOWN EAST VILLAGE               2    3,893
+Street Robbery                       41.82  NORTH GLENMORE PARK                 1    2,391
+Street Robbery                       37.55  TUXEDO PARK                         2    5,326
+Street Robbery                       35.91  DOWNTOWN WEST END                   1    2,785
+Street Robbery                       30.79  FOREST HEIGHTS                      2    6,496
+Street Robbery                       26.02  KILLARNEY/GLENGARRY                 2    7,685
+Street Robbery                       24.08  BANFF TRAIL                         1    4,153
+Street Robbery                       21.75  MISSION                             1    4,598
+Street Robbery                       19.32  DOVER                               2   10,351
+Street Robbery                       14.29  ALBERT PARK/RADISSON HEIGHTS        1    6,997
+Street Robbery                       14.12  HAYSBORO                            1    7,080
+Street Robbery                       13.44  GLENBROOK                           1    7,442
+Street Robbery                       11.67  PANORAMA HILLS                      3   25,710
+Street Robbery                       11.66  OGDEN                               1    8,576
+Street Robbery                        9.51  ACADIA                              1   10,520
+Street Robbery                        9.30  WEST SPRINGS                        1   10,758
+Street Robbery                        8.97  BOWNESS                             1   11,150
+Street Robbery                        7.91  BRIDLEWOOD                          1   12,641
+Street Robbery                        3.98  BELTLINE                            1   25,129
+ ==> CALGARY TOTAL:  RATE PER 100K =       2.33  OCCURRENCES =      36
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Theft FROM Vehicle               81,818.18  SUNRIDGE                            9       11
+Theft FROM Vehicle                8,000.00  SADDLE RIDGE INDUSTRIAL             2       25
+Theft FROM Vehicle                1,892.74  FOOTHILLS                           6      317
+Theft FROM Vehicle                  897.10  CLIFF BUNGALOW                     17    1,895
+Theft FROM Vehicle                  784.31  SHEPARD INDUSTRIAL                  2      255
+Theft FROM Vehicle                  776.40  MEADOWLARK PARK                     5      644
+Theft FROM Vehicle                  708.66  ERLTON                              9    1,270
+Theft FROM Vehicle                  673.40  RIDEAU PARK                         4      594
+Theft FROM Vehicle                  591.37  PARKHILL                           10    1,691
+Theft FROM Vehicle                  529.10  SETON                               6    1,134
+Theft FROM Vehicle                  444.44  GREENVIEW INDUSTRIAL PARK           1      225
+Theft FROM Vehicle                  339.61  SUNALTA                            11    3,239
+Theft FROM Vehicle                  326.23  MISSION                            15    4,598
+Theft FROM Vehicle                  322.23  SCARBORO                            3      931
+Theft FROM Vehicle                  310.95  DOWNTOWN COMMERCIAL CORE           27    8,683
+Theft FROM Vehicle                  307.50  SHAGANAPPI                          5    1,626
+Theft FROM Vehicle                  307.33  SUNNYSIDE                          13    4,230
+Theft FROM Vehicle                  305.41  WINDSOR PARK                       14    4,584
+Theft FROM Vehicle                  300.41  TUXEDO PARK                        16    5,326
+Theft FROM Vehicle                  289.86  BRITANNIA                           2      690
+Theft FROM Vehicle                  288.95  BANFF TRAIL                        12    4,153
+Theft FROM Vehicle                  285.92  HOUNSFIELD HEIGHTS/BRIAR HILL       8    2,798
+Theft FROM Vehicle                  252.95  CAPITOL HILL                       12    4,744
+Theft FROM Vehicle                  249.38  SCARBORO/ SUNALTA WEST              1      401
+Theft FROM Vehicle                  247.59  WINSTON HEIGHTS/MOUNTVIEW           9    3,635
+Theft FROM Vehicle                  246.85  FAIRVIEW                            9    3,646
+Theft FROM Vehicle                  241.69  CRESCENT HEIGHTS                   16    6,620
+Theft FROM Vehicle                  239.23  ROSEMONT                            3    1,254
+Theft FROM Vehicle                  236.97  ROXBORO                             1      422
+Theft FROM Vehicle                  231.70  RAMSAY                              5    2,158
+Theft FROM Vehicle                  226.83  BELTLINE                           57   25,129
+Theft FROM Vehicle                  219.46  BRIDGELAND/RIVERSIDE               15    6,835
+Theft FROM Vehicle                  215.44  DOWNTOWN WEST END                   6    2,785
+Theft FROM Vehicle                  213.48  HILLHURST                          14    6,558
+Theft FROM Vehicle                  209.46  ELBOW PARK                          7    3,342
+Theft FROM Vehicle                  209.31  SHAWNEE SLOPES                      4    1,911
+Theft FROM Vehicle                  209.28  BANKVIEW                           11    5,256
+Theft FROM Vehicle                  201.78  UPPER MOUNT ROYAL                   5    2,478
+Theft FROM Vehicle                  194.17  GARRISON GREEN                      4    2,060
+Theft FROM Vehicle                  188.21  RED CARPET                          3    1,594
+Theft FROM Vehicle                  187.97  CHRISTIE PARK                       4    2,128
+Theft FROM Vehicle                  176.76  RUTLAND PARK                        4    2,263
+Theft FROM Vehicle                  173.54  KELVIN GROVE                        4    2,305
+Theft FROM Vehicle                  173.56  LOWER MOUNT ROYAL                   6    3,457
+Theft FROM Vehicle                  172.86  ALTADORE                           12    6,942
+Theft FROM Vehicle                  170.62  WEST HILLHURST                     11    6,447
+Theft FROM Vehicle                  169.81  MOUNT PLEASANT                     10    5,889
+Theft FROM Vehicle                  168.78  VISTA HEIGHTS                       4    2,370
+Theft FROM Vehicle                  167.76  MAYLAND HEIGHTS                    10    5,961
+Theft FROM Vehicle                  167.13  ST. ANDREWS HEIGHTS                 3    1,795
+Theft FROM Vehicle                  166.20  SOUTHVIEW                           3    1,805
+Theft FROM Vehicle                  165.13  BRENTWOOD                          12    7,267
+Theft FROM Vehicle                  159.58  FALCONRIDGE                        17   10,653
+Theft FROM Vehicle                  157.40  GREENVIEW                           3    1,906
+Theft FROM Vehicle                  157.21  ALBERT PARK/RADISSON HEIGHTS       11    6,997
+Theft FROM Vehicle                  156.15  WESTGATE                            5    3,202
+Theft FROM Vehicle                  146.89  CASTLERIDGE                         9    6,127
+Theft FROM Vehicle                  137.81  BRAESIDE                            8    5,805
+Theft FROM Vehicle                  133.16  BAYVIEW                             1      751
+Theft FROM Vehicle                  130.64  KINCORA                             9    6,889
+Theft FROM Vehicle                  130.12  KILLARNEY/GLENGARRY                10    7,685
+Theft FROM Vehicle                  128.76  SOMERSET                           11    8,543
+Theft FROM Vehicle                  128.44  DOWNTOWN EAST VILLAGE               5    3,893
+Theft FROM Vehicle                  128.21  ROSEDALE                            2    1,560
+Theft FROM Vehicle                  127.99  KINGSLAND                           6    4,688
+Theft FROM Vehicle                  125.17  THORNCLIFFE                        11    8,788
+Theft FROM Vehicle                  124.25  INGLEWOOD                           5    4,024
+Theft FROM Vehicle                  122.66  GLAMORGAN                           8    6,522
+Theft FROM Vehicle                  121.54  RENFREW                             8    6,582
+Theft FROM Vehicle                  120.92  RICHMOND                            6    4,962
+Theft FROM Vehicle                  116.90  PENBROOKE MEADOWS                  10    8,554
+Theft FROM Vehicle                  115.52  COUNTRY HILLS VILLAGE               3    2,597
+Theft FROM Vehicle                  115.22  SILVER SPRINGS                     10    8,679
+Theft FROM Vehicle                  114.64  LINCOLN PARK                        3    2,617
+Theft FROM Vehicle                  114.03  ELBOYA                              2    1,754
+Theft FROM Vehicle                  113.49  ERIN WOODS                          8    7,049
+Theft FROM Vehicle                  113.29  CORNERSTONE                         3    2,648
+Theft FROM Vehicle                  112.99  HAYSBORO                            8    7,080
+Theft FROM Vehicle                  108.93  PALLISER                            4    3,672
+Theft FROM Vehicle                  107.76  BONAVISTA DOWNS                     1      928
+Theft FROM Vehicle                  106.19  COUNTRY HILLS                       4    3,767
+Theft FROM Vehicle                  104.22  HIGHLAND PARK                       4    3,838
+Theft FROM Vehicle                  102.70  UNIVERSITY HEIGHTS                  3    2,921
+Theft FROM Vehicle                  102.67  RUNDLE                             12   11,688
+Theft FROM Vehicle                  102.38  FOREST LAWN                         8    7,814
+Theft FROM Vehicle                  100.68  DEER RIDGE                          4    3,973
+Theft FROM Vehicle                  100.21  TEMPLE                             11   10,977
+Theft FROM Vehicle                   97.56  MANCHESTER                          1    1,025
+Theft FROM Vehicle                   93.21  VARSITY                            12   12,874
+Theft FROM Vehicle                   90.87  AUBURN BAY                         16   17,607
+Theft FROM Vehicle                   90.05  SOUTH CALGARY                       4    4,442
+Theft FROM Vehicle                   88.57  HIGHWOOD                            2    2,258
+Theft FROM Vehicle                   88.59  MONTGOMERY                          4    4,515
+Theft FROM Vehicle                   86.95  DOVER                               9   10,351
+Theft FROM Vehicle                   85.40  SHAWNESSY                           8    9,368
+Theft FROM Vehicle                   82.76  ROSSCARROCK                         3    3,625
+Theft FROM Vehicle                   82.04  MCKENZIE TOWNE                     15   18,283
+Theft FROM Vehicle                   81.97  HUNTINGTON HILLS                   11   13,420
+Theft FROM Vehicle                   81.62  OGDEN                               7    8,576
+Theft FROM Vehicle                   80.72  BOWNESS                             9   11,150
+Theft FROM Vehicle                   80.05  SOUTHWOOD                           5    6,246
+Theft FROM Vehicle                   78.70  CANYON MEADOWS                      6    7,624
+Theft FROM Vehicle                   76.05  ACADIA                              8   10,520
+Theft FROM Vehicle                   74.88  WHITEHORN                           9   12,019
+Theft FROM Vehicle                   74.70  LAKEVIEW                            4    5,355
+Theft FROM Vehicle                   74.46  POINT MCKAY                         1    1,343
+Theft FROM Vehicle                   74.36  WEST SPRINGS                        8   10,758
+Theft FROM Vehicle                   71.90  SUNDANCE                            7    9,736
+Theft FROM Vehicle                   70.40  MARLBOROUGH PARK                    6    8,523
+Theft FROM Vehicle                   70.09  DISCOVERY RIDGE                     3    4,280
+Theft FROM Vehicle                   69.87  DOUGLASDALE/GLEN                    9   12,881
+Theft FROM Vehicle                   68.34  SKYVIEW RANCH                       8   11,707
+Theft FROM Vehicle                   68.01  LAKE BONAVISTA                      7   10,293
+Theft FROM Vehicle                   67.75  SANDSTONE VALLEY                    4    5,904
+Theft FROM Vehicle                   67.19  SIGNAL HILL                         9   13,395
+Theft FROM Vehicle                   67.19  GLENBROOK                           5    7,442
+Theft FROM Vehicle                   63.10  MACEWAN GLEN                        3    4,754
+Theft FROM Vehicle                   63.07  TARADALE                           12   19,026
+Theft FROM Vehicle                   61.65  COACH HILL                          2    3,244
+Theft FROM Vehicle                   61.58  FOREST HEIGHTS                      4    6,496
+Theft FROM Vehicle                   60.98  PUMP HILL                           1    1,640
+Theft FROM Vehicle                   60.17  CHINOOK PARK                        1    1,662
+Theft FROM Vehicle                   59.87  PINERIDGE                           6   10,022
+Theft FROM Vehicle                   58.35  STRATHCONA PARK                     4    6,855
+Theft FROM Vehicle                   58.24  SADDLE RIDGE                       13   22,321
+Theft FROM Vehicle                   56.40  WOODBINE                            5    8,866
+Theft FROM Vehicle                   55.32  CHAPARRAL                           7   12,654
+Theft FROM Vehicle                   54.07  HAWKWOOD                            5    9,248
+Theft FROM Vehicle                   53.30  NOLAN HILL                          4    7,505
+Theft FROM Vehicle                   52.72  OAKRIDGE                            3    5,690
+Theft FROM Vehicle                   52.25  SILVERADO                           4    7,655
+Theft FROM Vehicle                   52.19  MAPLE RIDGE                         1    1,916
+Theft FROM Vehicle                   51.88  HIDDEN VALLEY                       6   11,566
+Theft FROM Vehicle                   50.36  ABBEYDALE                           3    5,957
+Theft FROM Vehicle                   50.29  SPRINGBANK HILL                     5    9,943
+Theft FROM Vehicle                   49.23  CEDARBRAE                           3    6,094
+Theft FROM Vehicle                   49.26  EAU CLAIRE                          1    2,030
+Theft FROM Vehicle                   47.60  PATTERSON                           2    4,202
+Theft FROM Vehicle                   44.76  MCKENZIE LAKE                       6   13,406
+Theft FROM Vehicle                   44.74  DALHOUSIE                           4    8,940
+Theft FROM Vehicle                   43.43  BEDDINGTON HEIGHTS                  5   11,514
+Theft FROM Vehicle                   42.97  APPLEWOOD PARK                      3    6,981
+Theft FROM Vehicle                   42.88  COUGAR RIDGE                        3    6,997
+Theft FROM Vehicle                   42.39  NORTH HAVEN                         1    2,359
+Theft FROM Vehicle                   42.12  MARTINDALE                          6   14,245
+Theft FROM Vehicle                   42.17  QUEENSLAND                          2    4,743
+Theft FROM Vehicle                   41.82  NORTH GLENMORE PARK                 1    2,391
+Theft FROM Vehicle                   39.55  BRIDLEWOOD                          5   12,641
+Theft FROM Vehicle                   38.97  PARKDALE                            1    2,566
+Theft FROM Vehicle                   38.57  MONTEREY PARK                       4   10,372
+Theft FROM Vehicle                   37.21  EVERGREEN                           8   21,500
+Theft FROM Vehicle                   36.91  WILDWOOD                            1    2,709
+Theft FROM Vehicle                   36.17  GLENDALE                            1    2,765
+Theft FROM Vehicle                   35.20  CRANSTON                            7   19,884
+Theft FROM Vehicle                   34.20  REDSTONE                            2    5,848
+Theft FROM Vehicle                   32.45  RIVERBEND                           3    9,244
+Theft FROM Vehicle                   32.22  CITYSCAPE                           1    3,104
+Theft FROM Vehicle                   32.09  GARRISON WOODS                      1    3,116
+Theft FROM Vehicle                   32.02  SHERWOOD                            2    6,246
+Theft FROM Vehicle                   31.15  LEGACY                              2    6,420
+Theft FROM Vehicle                   30.53  NEW BRIGHTON                        4   13,103
+Theft FROM Vehicle                   30.18  TUSCANY                             6   19,884
+Theft FROM Vehicle                   28.30  COVENTRY HILLS                      5   17,667
+Theft FROM Vehicle                   28.25  ARBOUR LAKE                         3   10,619
+Theft FROM Vehicle                   28.02  CHARLESWOOD                         1    3,569
+Theft FROM Vehicle                   27.51  MIDNAPORE                           2    7,270
+Theft FROM Vehicle                   27.32  PARKLAND                            1    3,660
+Theft FROM Vehicle                   26.95  HARVEST HILLS                       2    7,420
+Theft FROM Vehicle                   26.29  RANCHLANDS                          2    7,607
+Theft FROM Vehicle                   25.98  EDGEMONT                            4   15,395
+Theft FROM Vehicle                   25.63  ROYAL OAK                           3   11,706
+Theft FROM Vehicle                   21.83  MARLBOROUGH                         2    9,162
+Theft FROM Vehicle                   21.40  SPRUCE CLIFF                        1    4,673
+Theft FROM Vehicle                   19.74  DEER RUN                            1    5,065
+Theft FROM Vehicle                   18.77  WILLOW PARK                         1    5,328
+Theft FROM Vehicle                   17.24  CORAL SPRINGS                       1    5,801
+Theft FROM Vehicle                   16.66  WOODLANDS                           1    6,002
+Theft FROM Vehicle                   16.06  WALDEN                              1    6,228
+Theft FROM Vehicle                   14.49  MILLRISE                            1    6,900
+Theft FROM Vehicle                   12.40  SCENIC ACRES                        1    8,067
+Theft FROM Vehicle                   11.91  ROCKY RIDGE                         1    8,398
+Theft FROM Vehicle                    9.92  CITADEL                             1   10,077
+Theft FROM Vehicle                    8.49  MAHOGANY                            1   11,784
+Theft FROM Vehicle                    7.23  COPPERFIELD                         1   13,823
+Theft FROM Vehicle                    5.65  EVANSTON                            1   17,685
+Theft FROM Vehicle                    3.89  PANORAMA HILLS                      1   25,710
+ ==> CALGARY TOTAL:  RATE PER 100K =      71.62  OCCURRENCES =   1,108
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Theft OF Vehicle                 24,000.00  SADDLE RIDGE INDUSTRIAL             6       25
+Theft OF Vehicle                  9,090.91  SUNRIDGE                            1       11
+Theft OF Vehicle                  1,626.02  FOREST LAWN INDUSTRIAL              2      123
+Theft OF Vehicle                  1,261.83  FOOTHILLS                           4      317
+Theft OF Vehicle                    444.44  GREENVIEW INDUSTRIAL PARK           1      225
+Theft OF Vehicle                    392.16  SHEPARD INDUSTRIAL                  1      255
+Theft OF Vehicle                    289.86  BRITANNIA                           2      690
+Theft OF Vehicle                    181.38  RICHMOND                            9    4,962
+Theft OF Vehicle                    177.15  HIGHWOOD                            4    2,258
+Theft OF Vehicle                    166.20  SOUTHVIEW                           3    1,805
+Theft OF Vehicle                    164.56  FAIRVIEW                            6    3,646
+Theft OF Vehicle                    155.28  MEADOWLARK PARK                     1      644
+Theft OF Vehicle                    130.28  HIGHLAND PARK                       5    3,838
+Theft OF Vehicle                    125.47  RED CARPET                          2    1,594
+Theft OF Vehicle                    114.03  ELBOYA                              2    1,754
+Theft OF Vehicle                    105.21  PENBROOKE MEADOWS                   9    8,554
+Theft OF Vehicle                    104.93  GREENVIEW                           2    1,906
+Theft OF Vehicle                     94.56  SUNNYSIDE                           4    4,230
+Theft OF Vehicle                     93.28  OGDEN                               8    8,576
+Theft OF Vehicle                     91.16  RENFREW                             6    6,582
+Theft OF Vehicle                     90.63  CRESCENT HEIGHTS                    6    6,620
+Theft OF Vehicle                     88.59  MONTGOMERY                          4    4,515
+Theft OF Vehicle                     88.38  RUTLAND PARK                        2    2,263
+Theft OF Vehicle                     85.32  KINGSLAND                           4    4,688
+Theft OF Vehicle                     84.78  NORTH HAVEN                         2    2,359
+Theft OF Vehicle                     84.32  CAPITOL HILL                        4    4,744
+Theft OF Vehicle                     83.65  NORTH GLENMORE PARK                 2    2,391
+Theft OF Vehicle                     82.53  WINSTON HEIGHTS/MOUNTVIEW           3    3,635
+Theft OF Vehicle                     78.74  ERLTON                              1    1,270
+Theft OF Vehicle                     72.24  BANFF TRAIL                         3    4,153
+Theft OF Vehicle                     71.75  BOWNESS                             8   11,150
+Theft OF Vehicle                     68.78  MIDNAPORE                           5    7,270
+Theft OF Vehicle                     68.47  UNIVERSITY HEIGHTS                  2    2,921
+Theft OF Vehicle                     68.27  THORNCLIFFE                         6    8,788
+Theft OF Vehicle                     67.63  DOVER                               7   10,351
+Theft OF Vehicle                     65.28  CASTLERIDGE                         4    6,127
+Theft OF Vehicle                     64.43  CITYSCAPE                           2    3,104
+Theft OF Vehicle                     63.99  FOREST LAWN                         5    7,814
+Theft OF Vehicle                     63.77  TEMPLE                              7   10,977
+Theft OF Vehicle                     61.50  SHAGANAPPI                          1    1,626
+Theft OF Vehicle                     60.98  PUMP HILL                           1    1,640
+Theft OF Vehicle                     59.14  PARKHILL                            1    1,691
+Theft OF Vehicle                     58.52  BRIDGELAND/RIVERSIDE                4    6,835
+Theft OF Vehicle                     57.58  DOWNTOWN COMMERCIAL CORE            5    8,683
+Theft OF Vehicle                     57.17  ALBERT PARK/RADISSON HEIGHTS        4    6,997
+Theft OF Vehicle                     55.17  ROSSCARROCK                         2    3,625
+Theft OF Vehicle                     51.30  REDSTONE                            3    5,848
+Theft OF Vehicle                     50.94  MOUNT PLEASANT                      3    5,889
+Theft OF Vehicle                     50.33  MAYLAND HEIGHTS                     3    5,961
+Theft OF Vehicle                     46.34  RAMSAY                              1    2,158
+Theft OF Vehicle                     43.77  BELTLINE                           11   25,129
+Theft OF Vehicle                     43.63  WINDSOR PARK                        2    4,584
+Theft OF Vehicle                     42.80  SPRUCE CLIFF                        2    4,673
+Theft OF Vehicle                     42.78  RUNDLE                              5   11,688
+Theft OF Vehicle                     42.56  ERIN WOODS                          3    7,049
+Theft OF Vehicle                     42.17  QUEENSLAND                          2    4,743
+Theft OF Vehicle                     40.47  CHINATOWN                           1    2,471
+Theft OF Vehicle                     40.36  UPPER MOUNT ROYAL                   1    2,478
+Theft OF Vehicle                     39.49  DEER RUN                            2    5,065
+Theft OF Vehicle                     39.35  CANYON MEADOWS                      3    7,624
+Theft OF Vehicle                     39.19  SILVERADO                           3    7,655
+Theft OF Vehicle                     38.86  LAKE BONAVISTA                      4   10,293
+Theft OF Vehicle                     38.51  COUNTRY HILLS VILLAGE               1    2,597
+Theft OF Vehicle                     38.21  LINCOLN PARK                        1    2,617
+Theft OF Vehicle                     37.76  CORNERSTONE                         1    2,648
+Theft OF Vehicle                     37.67  ARBOUR LAKE                         4   10,619
+Theft OF Vehicle                     37.55  FALCONRIDGE                         4   10,653
+Theft OF Vehicle                     37.55  TUXEDO PARK                         2    5,326
+Theft OF Vehicle                     37.54  WILLOW PARK                         2    5,328
+Theft OF Vehicle                     37.35  LAKEVIEW                            2    5,355
+Theft OF Vehicle                     36.91  WILDWOOD                            1    2,709
+Theft OF Vehicle                     36.17  GLENDALE                            1    2,765
+Theft OF Vehicle                     35.91  DOWNTOWN WEST END                   1    2,785
+Theft OF Vehicle                     35.84  SADDLE RIDGE                        8   22,321
+Theft OF Vehicle                     35.20  MARLBOROUGH PARK                    3    8,523
+Theft OF Vehicle                     34.17  SKYVIEW RANCH                       4   11,707
+Theft OF Vehicle                     33.28  WHITEHORN                           4   12,019
+Theft OF Vehicle                     32.02  SOUTHWOOD                           2    6,246
+Theft OF Vehicle                     32.09  GARRISON WOODS                      1    3,116
+Theft OF Vehicle                     31.23  WESTGATE                            1    3,202
+Theft OF Vehicle                     31.02  WEST HILLHURST                      2    6,447
+Theft OF Vehicle                     31.05  DOUGLASDALE/GLEN                    4   12,881
+Theft OF Vehicle                     30.87  SUNALTA                             1    3,239
+Theft OF Vehicle                     29.86  SIGNAL HILL                         4   13,395
+Theft OF Vehicle                     28.93  LOWER MOUNT ROYAL                   1    3,457
+Theft OF Vehicle                     28.65  APPLEWOOD PARK                      2    6,981
+Theft OF Vehicle                     28.52  ACADIA                              3   10,520
+Theft OF Vehicle                     28.58  COUGAR RIDGE                        2    6,997
+Theft OF Vehicle                     28.08  MARTINDALE                          4   14,245
+Theft OF Vehicle                     27.35  MCKENZIE TOWNE                      5   18,283
+Theft OF Vehicle                     27.32  PARKLAND                            1    3,660
+Theft OF Vehicle                     27.23  PALLISER                            1    3,672
+Theft OF Vehicle                     27.09  HAMPTONS                            2    7,382
+Theft OF Vehicle                     26.87  GLENBROOK                           2    7,442
+Theft OF Vehicle                     26.55  COUNTRY HILLS                       1    3,767
+Theft OF Vehicle                     26.28  TARADALE                            5   19,026
+Theft OF Vehicle                     26.02  KILLARNEY/GLENGARRY                 2    7,685
+Theft OF Vehicle                     25.69  DOWNTOWN EAST VILLAGE               1    3,893
+Theft OF Vehicle                     25.17  DEER RIDGE                          1    3,973
+Theft OF Vehicle                     23.71  CHAPARRAL                           3   12,654
+Theft OF Vehicle                     23.30  VARSITY                             3   12,874
+Theft OF Vehicle                     23.04  SILVER SPRINGS                      2    8,679
+Theft OF Vehicle                     22.51  SOUTH CALGARY                       1    4,442
+Theft OF Vehicle                     21.75  MISSION                             1    4,598
+Theft OF Vehicle                     21.64  RIVERBEND                           2    9,244
+Theft OF Vehicle                     21.35  SHAWNESSY                           2    9,368
+Theft OF Vehicle                     21.03  MACEWAN GLEN                        1    4,754
+Theft OF Vehicle                     20.54  SUNDANCE                            2    9,736
+Theft OF Vehicle                     19.96  PINERIDGE                           2   10,022
+Theft OF Vehicle                     19.28  MONTEREY PARK                       2   10,372
+Theft OF Vehicle                     19.03  BANKVIEW                            1    5,256
+Theft OF Vehicle                     17.91  VALLEY RIDGE                        1    5,585
+Theft OF Vehicle                     17.57  OAKRIDGE                            1    5,690
+Theft OF Vehicle                     17.04  AUBURN BAY                          3   17,607
+Theft OF Vehicle                     16.94  SANDSTONE VALLEY                    1    5,904
+Theft OF Vehicle                     16.41  CEDARBRAE                           1    6,094
+Theft OF Vehicle                     16.06  WALDEN                              1    6,228
+Theft OF Vehicle                     15.39  FOREST HEIGHTS                      1    6,496
+Theft OF Vehicle                     15.26  NEW BRIGHTON                        2   13,103
+Theft OF Vehicle                     15.25  HILLHURST                           1    6,558
+Theft OF Vehicle                     14.92  MCKENZIE LAKE                       2   13,406
+Theft OF Vehicle                     14.59  STRATHCONA PARK                     1    6,855
+Theft OF Vehicle                     14.41  ALTADORE                            1    6,942
+Theft OF Vehicle                     14.12  HAYSBORO                            1    7,080
+Theft OF Vehicle                     13.76  BRENTWOOD                           1    7,267
+Theft OF Vehicle                     13.48  HARVEST HILLS                       1    7,420
+Theft OF Vehicle                     12.40  SCENIC ACRES                        1    8,067
+Theft OF Vehicle                     11.91  ROCKY RIDGE                         1    8,398
+Theft OF Vehicle                     11.28  WOODBINE                            1    8,866
+Theft OF Vehicle                     10.91  MARLBOROUGH                         1    9,162
+Theft OF Vehicle                     10.81  HAWKWOOD                            1    9,248
+Theft OF Vehicle                     10.59  ASPEN WOODS                         1    9,446
+Theft OF Vehicle                     10.06  CRANSTON                            2   19,884
+Theft OF Vehicle                      9.30  WEST SPRINGS                        1   10,758
+Theft OF Vehicle                      8.49  MAHOGANY                            1   11,784
+Theft OF Vehicle                      7.45  HUNTINGTON HILLS                    1   13,420
+Theft OF Vehicle                      7.23  COPPERFIELD                         1   13,823
+Theft OF Vehicle                      6.50  EDGEMONT                            1   15,395
+Theft OF Vehicle                      5.65  EVANSTON                            1   17,685
+Theft OF Vehicle                      5.66  COVENTRY HILLS                      1   17,667
+Theft OF Vehicle                      5.03  TUSCANY                             1   19,884
+Theft OF Vehicle                      4.65  EVERGREEN                           1   21,500
+Theft OF Vehicle                      3.89  PANORAMA HILLS                      1   25,710
+ ==> CALGARY TOTAL:  RATE PER 100K =      23.79  OCCURRENCES =     368
+------------------------------------------------------------------------------------------
+CRIME CATEGORY                  RATE /100K  COMMUNITY NAME                  OCCUR  RESIDNT
+Violence Other (Non-domestic)    18,181.82  SUNRIDGE                            2       11
+Violence Other (Non-domestic)       195.12  MANCHESTER                          2    1,025
+Violence Other (Non-domestic)       111.42  ST. ANDREWS HEIGHTS                 2    1,795
+Violence Other (Non-domestic)       110.80  SOUTHVIEW                           2    1,805
+Violence Other (Non-domestic)       105.54  CLIFF BUNGALOW                      2    1,895
+Violence Other (Non-domestic)       104.93  GREENVIEW                           2    1,906
+Violence Other (Non-domestic)        69.10  DOWNTOWN COMMERCIAL CORE            6    8,683
+Violence Other (Non-domestic)        65.45  WINDSOR PARK                        3    4,584
+Violence Other (Non-domestic)        58.52  BRIDGELAND/RIVERSIDE                4    6,835
+Violence Other (Non-domestic)        57.01  ELBOYA                              1    1,754
+Violence Other (Non-domestic)        52.19  MAPLE RIDGE                         1    1,916
+Violence Other (Non-domestic)        51.19  FOREST LAWN                         4    7,814
+Violence Other (Non-domestic)        50.34  DEER RIDGE                          2    3,973
+Violence Other (Non-domestic)        46.99  CHRISTIE PARK                       1    2,128
+Violence Other (Non-domestic)        46.64  OGDEN                               4    8,576
+Violence Other (Non-domestic)        45.02  SOUTH CALGARY                       2    4,442
+Violence Other (Non-domestic)        44.30  MONTGOMERY                          2    4,515
+Violence Other (Non-domestic)        43.50  MISSION                             2    4,598
+Violence Other (Non-domestic)        42.66  KINGSLAND                           2    4,688
+Violence Other (Non-domestic)        42.19  VISTA HEIGHTS                       1    2,370
+Violence Other (Non-domestic)        40.31  RICHMOND                            2    4,962
+Violence Other (Non-domestic)        38.21  LINCOLN PARK                        1    2,617
+Violence Other (Non-domestic)        38.02  ACADIA                              4   10,520
+Violence Other (Non-domestic)        35.20  MARLBOROUGH PARK                    3    8,523
+Violence Other (Non-domestic)        33.32  WOODLANDS                           2    6,002
+Violence Other (Non-domestic)        31.02  WEST HILLHURST                      2    6,447
+Violence Other (Non-domestic)        30.87  SUNALTA                             1    3,239
+Violence Other (Non-domestic)        30.39  RENFREW                             2    6,582
+Violence Other (Non-domestic)        30.17  SPRINGBANK HILL                     3    9,943
+Violence Other (Non-domestic)        29.86  SIGNAL HILL                         4   13,395
+Violence Other (Non-domestic)        29.18  STRATHCONA PARK                     2    6,855
+Violence Other (Non-domestic)        28.25  HAYSBORO                            2    7,080
+Violence Other (Non-domestic)        27.51  MIDNAPORE                           2    7,270
+Violence Other (Non-domestic)        27.59  ROSSCARROCK                         1    3,625
+Violence Other (Non-domestic)        24.08  BANFF TRAIL                         1    4,153
+Violence Other (Non-domestic)        23.88  BELTLINE                            6   25,129
+Violence Other (Non-domestic)        23.64  SUNNYSIDE                           1    4,230
+Violence Other (Non-domestic)        22.76  THORNCLIFFE                         2    8,788
+Violence Other (Non-domestic)        22.37  DALHOUSIE                           2    8,940
+Violence Other (Non-domestic)        22.35  HUNTINGTON HILLS                    3   13,420
+Violence Other (Non-domestic)        21.40  SPRUCE CLIFF                        1    4,673
+Violence Other (Non-domestic)        21.08  QUEENSLAND                          1    4,743
+Violence Other (Non-domestic)        21.08  CAPITOL HILL                        1    4,744
+Violence Other (Non-domestic)        20.54  SUNDANCE                            2    9,736
+Violence Other (Non-domestic)        19.32  DOVER                               2   10,351
+Violence Other (Non-domestic)        19.03  BANKVIEW                            1    5,256
+Violence Other (Non-domestic)        18.77  FALCONRIDGE                         2   10,653
+Violence Other (Non-domestic)        17.92  SADDLE RIDGE                        4   22,321
+Violence Other (Non-domestic)        17.24  CORAL SPRINGS                       1    5,801
+Violence Other (Non-domestic)        17.11  RUNDLE                              2   11,688
+Violence Other (Non-domestic)        16.98  MOUNT PLEASANT                      1    5,889
+Violence Other (Non-domestic)        16.79  ABBEYDALE                           1    5,957
+Violence Other (Non-domestic)        16.01  SOUTHWOOD                           1    6,246
+Violence Other (Non-domestic)        15.33  GLAMORGAN                           1    6,522
+Violence Other (Non-domestic)        15.25  HILLHURST                           1    6,558
+Violence Other (Non-domestic)        14.32  APPLEWOOD PARK                      1    6,981
+Violence Other (Non-domestic)        14.04  MARTINDALE                          2   14,245
+Violence Other (Non-domestic)        13.76  BRENTWOOD                           1    7,267
+Violence Other (Non-domestic)        13.12  CANYON MEADOWS                      1    7,624
+Violence Other (Non-domestic)        12.40  SCENIC ACRES                        1    8,067
+Violence Other (Non-domestic)        11.71  SOMERSET                            1    8,543
+Violence Other (Non-domestic)        11.67  PANORAMA HILLS                      3   25,710
+Violence Other (Non-domestic)        11.52  SILVER SPRINGS                      1    8,679
+Violence Other (Non-domestic)        11.28  WOODBINE                            1    8,866
+Violence Other (Non-domestic)        10.94  MCKENZIE TOWNE                      2   18,283
+Violence Other (Non-domestic)         9.98  PINERIDGE                           1   10,022
+Violence Other (Non-domestic)         9.92  CITADEL                             1   10,077
+Violence Other (Non-domestic)         9.72  LAKE BONAVISTA                      1   10,293
+Violence Other (Non-domestic)         9.64  MONTEREY PARK                       1   10,372
+Violence Other (Non-domestic)         9.42  ARBOUR LAKE                         1   10,619
+Violence Other (Non-domestic)         9.30  WEST SPRINGS                        1   10,758
+Violence Other (Non-domestic)         9.30  EVERGREEN                           2   21,500
+Violence Other (Non-domestic)         9.11  TEMPLE                              1   10,977
+Violence Other (Non-domestic)         8.97  BOWNESS                             1   11,150
+Violence Other (Non-domestic)         8.54  SKYVIEW RANCH                       1   11,707
+Violence Other (Non-domestic)         8.49  MAHOGANY                            1   11,784
+Violence Other (Non-domestic)         8.32  WHITEHORN                           1   12,019
+Violence Other (Non-domestic)         7.77  VARSITY                             1   12,874
+Violence Other (Non-domestic)         7.46  MCKENZIE LAKE                       1   13,406
+Violence Other (Non-domestic)         7.23  COPPERFIELD                         1   13,823
+Violence Other (Non-domestic)         5.66  COVENTRY HILLS                      1   17,667
+Violence Other (Non-domestic)         5.68  AUBURN BAY                          1   17,607
+Violence Other (Non-domestic)         5.03  CRANSTON                            1   19,884
+Violence Other (Non-domestic)         5.03  TUSCANY                             1   19,884
+ ==> CALGARY TOTAL:  RATE PER 100K =       9.63  OCCURRENCES =     149
+------------------------------------------------------------------------------------------                 DDDDDDDDD     YY        YY  MM        MM   IIIIIIIIII   NN        NN  EEEEEEEEEEEE    00000000         11
+                DDDDDDDDDD    YY        YY  MMM      MMM   IIIIIIIIII   NNN       NN  EEEEEEEEEEEE   0000000000       111
+               DD       DD    YY      YY   MMMM    MMMM       II       NNNN      NN  EE            00      0000     1111
+              DD        DD    YY    YY    MM MM  MM MM       II       NN NN     NN  EE            00     00 00       11
+             DD        DD     YY  YY     MM  MMMM  MM       II       NN  NN    NN  EE            00    00  00       11
+            DD        DD      YYYY      MM   MM   MM       II       NN   NN   NN  EEEEEEEE      00   00   00       11
+           DD        DD       YY       MM        MM       II       NN    NN  NN  EEEEEEEE      00  00    00       11
+          DD        DD       YY       MM        MM       II       NN     NN NN  EE            00 00     00       11
+         DD        DD       YY       MM        MM       II       NN      NNNN  EE            0000      00       11
+        DD       DD        YY       MM        MM       II       NN       NNN  EE            000       00       11
+       DDDDDDDDDD         YY       MM        MM   IIIIIIIIII   NN        NN  EEEEEEEEEEEE   0000000000    1111111111
+      DDDDDDDDD          YY       MM        MM   IIIIIIIIII   NN         N  EEEEEEEEEEEE    00000000     1111111111
+
+
+
+                    JJJJJJJJJJ        444      6666666666                                              AAAAAAAAAA
+                    JJJJJJJJJJ       4444     666666666666                                            AAAAAAAAAAAA
+                        JJ          44 44     66        66                                            AA        AA
+                        JJ         44  44     66                                                      AA        AA
+                        JJ        44   44     66                                                      AA        AA
+                        JJ       44444444444  66666666666                                             AAAAAAAAAAAA
+                        JJ      444444444444  666666666666                                            AAAAAAAAAAAA
+                        JJ             44     66        66                                            AA        AA
+                  JJ    JJ             44     66        66                                            AA        AA
+                  JJ    JJ             44     66        66                                            AA        AA
+                  JJJJJJJJ             44     666666666666                                            AA        AA
+                   JJJJJJ              44      6666666666                                             AA        AA
+
+
+****A   END   JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46   END   A****
+****A   END   JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46   END   A****
+****A   END   JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46   END   A****
+****A   END   JOB   46  DYMINE01  Calgary Crime         ROOM        6.11.51 PM 22 DEC 20  PRINTER1  SYS TK4-  JOB   46   END   A****
+

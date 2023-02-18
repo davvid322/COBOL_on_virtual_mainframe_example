@@ -1,0 +1,21 @@
+This describes the 'Crime Data COBOL format' file.
+
+The source data was taken from the City of Calgary Crime Statistidcs - Current Year dataset, CSV format.
+
+A Python script was used in Jupyter Notebook 'calgary_crime" to transform the CSV into a COBOL-friendly format.
+
+Only data from one month was selected, specifically September 2020.
+
+The data is in no particular order, so a sort will be needed before any COBOL processing / reporting.
+
+The fixed format of each record is as follows:
+  Community name: X(30)
+  Crime category: X(30)
+  Crime count: 9(4)
+  Resident count: 9(6)
+  Year: 9(4)
+  Month: X(3)
+  Rate-per-100,000: 9(6).9(2) = 9 chars
+  
+So total record length is exactly 86 bytes.
+

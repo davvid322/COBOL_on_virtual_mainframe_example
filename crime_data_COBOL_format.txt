@@ -1,0 +1,866 @@
+ABBEYDALE                     Break & Enter - Other Premises00010059572020SEP000016.79
+ABBEYDALE                     Theft FROM Vehicle            00030059572020SEP000050.36
+ABBEYDALE                     Violence Other (Non-domestic) 00010059572020SEP000016.79
+ACADIA                        Assault (Non-domestic)        00010105202020SEP000009.51
+ACADIA                        Break & Enter - Commercial    00010105202020SEP000009.51
+ACADIA                        Break & Enter - Other Premises00140105202020SEP000133.08
+ACADIA                        Street Robbery                00010105202020SEP000009.51
+ACADIA                        Theft OF Vehicle              00030105202020SEP000028.52
+ACADIA                        Violence Other (Non-domestic) 00040105202020SEP000038.02
+ALBERT PARK/RADISSON HEIGHTS  Assault (Non-domestic)        00020069972020SEP000028.58
+ALBERT PARK/RADISSON HEIGHTS  Break & Enter - Commercial    00040069972020SEP000057.17
+ALBERT PARK/RADISSON HEIGHTS  Break & Enter - Dwelling      00030069972020SEP000042.88
+ALBERT PARK/RADISSON HEIGHTS  Break & Enter - Other Premises00030069972020SEP000042.88
+ALBERT PARK/RADISSON HEIGHTS  Street Robbery                00010069972020SEP000014.29
+ALBERT PARK/RADISSON HEIGHTS  Theft FROM Vehicle            00110069972020SEP000157.21
+ALBERT PARK/RADISSON HEIGHTS  Theft OF Vehicle              00040069972020SEP000057.17
+ALTADORE                      Break & Enter - Other Premises00070069422020SEP000100.84
+ALTADORE                      Theft FROM Vehicle            00120069422020SEP000172.86
+ALTADORE                      Theft OF Vehicle              00010069422020SEP000014.41
+APPLEWOOD PARK                Break & Enter - Other Premises00010069812020SEP000014.32
+APPLEWOOD PARK                Theft FROM Vehicle            00030069812020SEP000042.97
+APPLEWOOD PARK                Theft OF Vehicle              00020069812020SEP000028.65
+APPLEWOOD PARK                Violence Other (Non-domestic) 00010069812020SEP000014.32
+ARBOUR LAKE                   Assault (Non-domestic)        00050106192020SEP000047.09
+ARBOUR LAKE                   Break & Enter - Commercial    00060106192020SEP000056.50
+ARBOUR LAKE                   Break & Enter - Dwelling      00030106192020SEP000028.25
+ARBOUR LAKE                   Commercial Robbery            00010106192020SEP000009.42
+ARBOUR LAKE                   Theft FROM Vehicle            00030106192020SEP000028.25
+ARBOUR LAKE                   Theft OF Vehicle              00040106192020SEP000037.67
+ASPEN WOODS                   Assault (Non-domestic)        00010094462020SEP000010.59
+ASPEN WOODS                   Break & Enter - Dwelling      00020094462020SEP000021.17
+ASPEN WOODS                   Commercial Robbery            00010094462020SEP000010.59
+ASPEN WOODS                   Theft OF Vehicle              00010094462020SEP000010.59
+AUBURN BAY                    Assault (Non-domestic)        00010176072020SEP000005.68
+AUBURN BAY                    Break & Enter - Dwelling      00040176072020SEP000022.72
+AUBURN BAY                    Theft FROM Vehicle            00160176072020SEP000090.87
+AUBURN BAY                    Theft OF Vehicle              00030176072020SEP000017.04
+AUBURN BAY                    Violence Other (Non-domestic) 00010176072020SEP000005.68
+BANFF TRAIL                   Assault (Non-domestic)        00010041532020SEP000024.08
+BANFF TRAIL                   Break & Enter - Commercial    00020041532020SEP000048.16
+BANFF TRAIL                   Break & Enter - Other Premises00050041532020SEP000120.39
+BANFF TRAIL                   Street Robbery                00010041532020SEP000024.08
+BANFF TRAIL                   Theft FROM Vehicle            00120041532020SEP000288.95
+BANFF TRAIL                   Theft OF Vehicle              00030041532020SEP000072.24
+BANFF TRAIL                   Violence Other (Non-domestic) 00010041532020SEP000024.08
+BANKVIEW                      Break & Enter - Commercial    00010052562020SEP000019.03
+BANKVIEW                      Break & Enter - Dwelling      00020052562020SEP000038.05
+BANKVIEW                      Theft FROM Vehicle            00110052562020SEP000209.28
+BANKVIEW                      Theft OF Vehicle              00010052562020SEP000019.03
+BANKVIEW                      Violence Other (Non-domestic) 00010052562020SEP000019.03
+BAYVIEW                       Break & Enter - Commercial    00010007512020SEP000133.16
+BAYVIEW                       Theft FROM Vehicle            00010007512020SEP000133.16
+BEDDINGTON HEIGHTS            Assault (Non-domestic)        00040115142020SEP000034.74
+BEDDINGTON HEIGHTS            Theft FROM Vehicle            00050115142020SEP000043.43
+BEL-AIRE                      Break & Enter - Dwelling      00010003902020SEP000256.41
+BELTLINE                      Assault (Non-domestic)        00320251292020SEP000127.34
+BELTLINE                      Break & Enter - Commercial    00120251292020SEP000047.75
+BELTLINE                      Break & Enter - Dwelling      00030251292020SEP000011.94
+BELTLINE                      Break & Enter - Other Premises00020251292020SEP000007.96
+BELTLINE                      Commercial Robbery            00060251292020SEP000023.88
+BELTLINE                      Street Robbery                00010251292020SEP000003.98
+BELTLINE                      Theft FROM Vehicle            00570251292020SEP000226.83
+BELTLINE                      Theft OF Vehicle              00110251292020SEP000043.77
+BELTLINE                      Violence Other (Non-domestic) 00060251292020SEP000023.88
+BONAVISTA DOWNS               Theft FROM Vehicle            00010009282020SEP000107.76
+BOWNESS                       Assault (Non-domestic)        00070111502020SEP000062.78
+BOWNESS                       Break & Enter - Commercial    00030111502020SEP000026.91
+BOWNESS                       Break & Enter - Dwelling      00010111502020SEP000008.97
+BOWNESS                       Break & Enter - Other Premises00020111502020SEP000017.94
+BOWNESS                       Street Robbery                00010111502020SEP000008.97
+BOWNESS                       Theft FROM Vehicle            00090111502020SEP000080.72
+BOWNESS                       Theft OF Vehicle              00080111502020SEP000071.75
+BOWNESS                       Violence Other (Non-domestic) 00010111502020SEP000008.97
+BRAESIDE                      Assault (Non-domestic)        00030058052020SEP000051.68
+BRAESIDE                      Break & Enter - Commercial    00010058052020SEP000017.23
+BRAESIDE                      Break & Enter - Other Premises00030058052020SEP000051.68
+BRAESIDE                      Theft FROM Vehicle            00080058052020SEP000137.81
+BRENTWOOD                     Assault (Non-domestic)        00010072672020SEP000013.76
+BRENTWOOD                     Break & Enter - Other Premises00020072672020SEP000027.52
+BRENTWOOD                     Theft FROM Vehicle            00120072672020SEP000165.13
+BRENTWOOD                     Theft OF Vehicle              00010072672020SEP000013.76
+BRENTWOOD                     Violence Other (Non-domestic) 00010072672020SEP000013.76
+BRIDGELAND/RIVERSIDE          Assault (Non-domestic)        00050068352020SEP000073.15
+BRIDGELAND/RIVERSIDE          Break & Enter - Commercial    00060068352020SEP000087.78
+BRIDGELAND/RIVERSIDE          Break & Enter - Dwelling      00010068352020SEP000014.63
+BRIDGELAND/RIVERSIDE          Break & Enter - Other Premises00030068352020SEP000043.89
+BRIDGELAND/RIVERSIDE          Theft FROM Vehicle            00150068352020SEP000219.46
+BRIDGELAND/RIVERSIDE          Theft OF Vehicle              00040068352020SEP000058.52
+BRIDGELAND/RIVERSIDE          Violence Other (Non-domestic) 00040068352020SEP000058.52
+BRIDLEWOOD                    Assault (Non-domestic)        00010126412020SEP000007.91
+BRIDLEWOOD                    Street Robbery                00010126412020SEP000007.91
+BRIDLEWOOD                    Theft FROM Vehicle            00050126412020SEP000039.55
+BRITANNIA                     Theft FROM Vehicle            00020006902020SEP000289.86
+BRITANNIA                     Theft OF Vehicle              00020006902020SEP000289.86
+CAMBRIAN HEIGHTS              Break & Enter - Other Premises00010020362020SEP000049.12
+CANYON MEADOWS                Assault (Non-domestic)        00010076242020SEP000013.12
+CANYON MEADOWS                Break & Enter - Dwelling      00010076242020SEP000013.12
+CANYON MEADOWS                Break & Enter - Other Premises00010076242020SEP000013.12
+CANYON MEADOWS                Commercial Robbery            00010076242020SEP000013.12
+CANYON MEADOWS                Theft FROM Vehicle            00060076242020SEP000078.70
+CANYON MEADOWS                Theft OF Vehicle              00030076242020SEP000039.35
+CANYON MEADOWS                Violence Other (Non-domestic) 00010076242020SEP000013.12
+CAPITOL HILL                  Assault (Non-domestic)        00040047442020SEP000084.32
+CAPITOL HILL                  Break & Enter - Commercial    00030047442020SEP000063.24
+CAPITOL HILL                  Break & Enter - Other Premises00070047442020SEP000147.55
+CAPITOL HILL                  Commercial Robbery            00010047442020SEP000021.08
+CAPITOL HILL                  Theft FROM Vehicle            00120047442020SEP000252.95
+CAPITOL HILL                  Theft OF Vehicle              00040047442020SEP000084.32
+CAPITOL HILL                  Violence Other (Non-domestic) 00010047442020SEP000021.08
+CASTLERIDGE                   Assault (Non-domestic)        00010061272020SEP000016.32
+CASTLERIDGE                   Theft FROM Vehicle            00090061272020SEP000146.89
+CASTLERIDGE                   Theft OF Vehicle              00040061272020SEP000065.28
+CEDARBRAE                     Break & Enter - Dwelling      00020060942020SEP000032.82
+CEDARBRAE                     Break & Enter - Other Premises00010060942020SEP000016.41
+CEDARBRAE                     Theft FROM Vehicle            00030060942020SEP000049.23
+CEDARBRAE                     Theft OF Vehicle              00010060942020SEP000016.41
+CHAPARRAL                     Break & Enter - Dwelling      00020126542020SEP000015.81
+CHAPARRAL                     Theft FROM Vehicle            00070126542020SEP000055.32
+CHAPARRAL                     Theft OF Vehicle              00030126542020SEP000023.71
+CHINATOWN                     Assault (Non-domestic)        00010024712020SEP000040.47
+CHINOOK PARK                  Assault (Non-domestic)        00010016622020SEP000060.17
+CHINOOK PARK                  Break & Enter - Other Premises00020016622020SEP000120.34
+CHINOOK PARK                  Theft FROM Vehicle            00010016622020SEP000060.17
+CHRISTIE PARK                 Theft FROM Vehicle            00040021282020SEP000187.97
+CHRISTIE PARK                 Violence Other (Non-domestic) 00010021282020SEP000046.99
+CITADEL                       Break & Enter - Dwelling      00010100772020SEP000009.92
+CITADEL                       Theft FROM Vehicle            00010100772020SEP000009.92
+CITADEL                       Violence Other (Non-domestic) 00010100772020SEP000009.92
+CITYSCAPE                     Break & Enter - Other Premises00010031042020SEP000032.22
+CITYSCAPE                     Theft FROM Vehicle            00010031042020SEP000032.22
+CITYSCAPE                     Theft OF Vehicle              00020031042020SEP000064.43
+CLIFF BUNGALOW                Assault (Non-domestic)        00020018952020SEP000105.54
+CLIFF BUNGALOW                Break & Enter - Commercial    00030018952020SEP000158.31
+CLIFF BUNGALOW                Theft FROM Vehicle            00170018952020SEP000897.10
+CLIFF BUNGALOW                Violence Other (Non-domestic) 00020018952020SEP000105.54
+COACH HILL                    Break & Enter - Dwelling      00030032442020SEP000092.48
+COACH HILL                    Break & Enter - Other Premises00020032442020SEP000061.65
+COACH HILL                    Theft FROM Vehicle            00020032442020SEP000061.65
+COLLINGWOOD                   Break & Enter - Dwelling      00010022492020SEP000044.46
+COPPERFIELD                   Break & Enter - Dwelling      00020138232020SEP000014.47
+COPPERFIELD                   Theft FROM Vehicle            00010138232020SEP000007.23
+COPPERFIELD                   Violence Other (Non-domestic) 00010138232020SEP000007.23
+CORAL SPRINGS                 Break & Enter - Dwelling      00020058012020SEP000034.48
+CORAL SPRINGS                 Theft FROM Vehicle            00010058012020SEP000017.24
+CORAL SPRINGS                 Violence Other (Non-domestic) 00010058012020SEP000017.24
+CORNERSTONE                   Theft FROM Vehicle            00030026482020SEP000113.29
+CORNERSTONE                   Theft OF Vehicle              00010026482020SEP000037.76
+COUGAR RIDGE                  Break & Enter - Dwelling      00010069972020SEP000014.29
+COUGAR RIDGE                  Break & Enter - Other Premises00010069972020SEP000014.29
+COUGAR RIDGE                  Theft FROM Vehicle            00030069972020SEP000042.88
+COUGAR RIDGE                  Theft OF Vehicle              00020069972020SEP000028.58
+COUNTRY HILLS VILLAGE         Assault (Non-domestic)        00020025972020SEP000077.01
+COUNTRY HILLS VILLAGE         Theft FROM Vehicle            00030025972020SEP000115.52
+COUNTRY HILLS VILLAGE         Theft OF Vehicle              00010025972020SEP000038.51
+COUNTRY HILLS                 Break & Enter - Dwelling      00010037672020SEP000026.55
+COUNTRY HILLS                 Theft FROM Vehicle            00040037672020SEP000106.19
+COUNTRY HILLS                 Theft OF Vehicle              00010037672020SEP000026.55
+COVENTRY HILLS                Assault (Non-domestic)        00010176672020SEP000005.66
+COVENTRY HILLS                Break & Enter - Dwelling      00020176672020SEP000011.32
+COVENTRY HILLS                Break & Enter - Other Premises00020176672020SEP000011.32
+COVENTRY HILLS                Theft FROM Vehicle            00050176672020SEP000028.30
+COVENTRY HILLS                Theft OF Vehicle              00010176672020SEP000005.66
+COVENTRY HILLS                Violence Other (Non-domestic) 00010176672020SEP000005.66
+CRANSTON                      Break & Enter - Other Premises00010198842020SEP000005.03
+CRANSTON                      Theft FROM Vehicle            00070198842020SEP000035.20
+CRANSTON                      Theft OF Vehicle              00020198842020SEP000010.06
+CRANSTON                      Violence Other (Non-domestic) 00010198842020SEP000005.03
+CRESCENT HEIGHTS              Assault (Non-domestic)        00010066202020SEP000015.11
+CRESCENT HEIGHTS              Break & Enter - Commercial    00120066202020SEP000181.27
+CRESCENT HEIGHTS              Break & Enter - Dwelling      00020066202020SEP000030.21
+CRESCENT HEIGHTS              Break & Enter - Other Premises00080066202020SEP000120.85
+CRESCENT HEIGHTS              Commercial Robbery            00010066202020SEP000015.11
+CRESCENT HEIGHTS              Theft FROM Vehicle            00160066202020SEP000241.69
+CRESCENT HEIGHTS              Theft OF Vehicle              00060066202020SEP000090.63
+CURRIE BARRACKS               Break & Enter - Other Premises00010012622020SEP000079.24
+DALHOUSIE                     Assault (Non-domestic)        00010089402020SEP000011.19
+DALHOUSIE                     Break & Enter - Dwelling      00010089402020SEP000011.19
+DALHOUSIE                     Theft FROM Vehicle            00040089402020SEP000044.74
+DALHOUSIE                     Violence Other (Non-domestic) 00020089402020SEP000022.37
+DEER RIDGE                    Break & Enter - Commercial    00010039732020SEP000025.17
+DEER RIDGE                    Theft FROM Vehicle            00040039732020SEP000100.68
+DEER RIDGE                    Theft OF Vehicle              00010039732020SEP000025.17
+DEER RIDGE                    Violence Other (Non-domestic) 00020039732020SEP000050.34
+DEER RUN                      Break & Enter - Dwelling      00010050652020SEP000019.74
+DEER RUN                      Theft FROM Vehicle            00010050652020SEP000019.74
+DEER RUN                      Theft OF Vehicle              00020050652020SEP000039.49
+DISCOVERY RIDGE               Theft FROM Vehicle            00030042802020SEP000070.09
+DOUGLASDALE/GLEN              Assault (Non-domestic)        00010128812020SEP000007.76
+DOUGLASDALE/GLEN              Break & Enter - Dwelling      00070128812020SEP000054.34
+DOUGLASDALE/GLEN              Commercial Robbery            00010128812020SEP000007.76
+DOUGLASDALE/GLEN              Theft FROM Vehicle            00090128812020SEP000069.87
+DOUGLASDALE/GLEN              Theft OF Vehicle              00040128812020SEP000031.05
+DOVER                         Assault (Non-domestic)        00030103512020SEP000028.98
+DOVER                         Break & Enter - Dwelling      00020103512020SEP000019.32
+DOVER                         Break & Enter - Other Premises00040103512020SEP000038.64
+DOVER                         Commercial Robbery            00010103512020SEP000009.66
+DOVER                         Theft FROM Vehicle            00090103512020SEP000086.95
+DOVER                         Theft OF Vehicle              00070103512020SEP000067.63
+DOVER                         Violence Other (Non-domestic) 00020103512020SEP000019.32
+DOWNTOWN COMMERCIAL CORE      Assault (Non-domestic)        00310086832020SEP000357.02
+DOWNTOWN COMMERCIAL CORE      Break & Enter - Commercial    00100086832020SEP000115.17
+DOWNTOWN COMMERCIAL CORE      Break & Enter - Dwelling      00010086832020SEP000011.52
+DOWNTOWN COMMERCIAL CORE      Commercial Robbery            00020086832020SEP000023.03
+DOWNTOWN COMMERCIAL CORE      Street Robbery                00080086832020SEP000092.13
+DOWNTOWN COMMERCIAL CORE      Theft FROM Vehicle            00270086832020SEP000310.95
+DOWNTOWN COMMERCIAL CORE      Theft OF Vehicle              00050086832020SEP000057.58
+DOWNTOWN COMMERCIAL CORE      Violence Other (Non-domestic) 00060086832020SEP000069.10
+DOWNTOWN EAST VILLAGE         Assault (Non-domestic)        00120038932020SEP000308.25
+DOWNTOWN EAST VILLAGE         Break & Enter - Commercial    00020038932020SEP000051.37
+DOWNTOWN EAST VILLAGE         Break & Enter - Dwelling      00010038932020SEP000025.69
+DOWNTOWN EAST VILLAGE         Street Robbery                00020038932020SEP000051.37
+DOWNTOWN EAST VILLAGE         Theft FROM Vehicle            00050038932020SEP000128.44
+DOWNTOWN EAST VILLAGE         Theft OF Vehicle              00010038932020SEP000025.69
+DOWNTOWN WEST END             Assault (Non-domestic)        00030027852020SEP000107.72
+DOWNTOWN WEST END             Break & Enter - Commercial    00010027852020SEP000035.91
+DOWNTOWN WEST END             Theft FROM Vehicle            00060027852020SEP000215.44
+DOWNTOWN WEST END             Theft OF Vehicle              00010027852020SEP000035.91
+EAGLE RIDGE                   Assault (Non-domestic)        00010003022020SEP000331.13
+EAU CLAIRE                    Assault (Non-domestic)        00010020302020SEP000049.26
+EAU CLAIRE                    Break & Enter - Commercial    00030020302020SEP000147.78
+EAU CLAIRE                    Theft FROM Vehicle            00010020302020SEP000049.26
+EDGEMONT                      Break & Enter - Dwelling      00030153952020SEP000019.49
+EDGEMONT                      Theft FROM Vehicle            00040153952020SEP000025.98
+EDGEMONT                      Theft OF Vehicle              00010153952020SEP000006.50
+ELBOW PARK                    Break & Enter - Commercial    00030033422020SEP000089.77
+ELBOW PARK                    Break & Enter - Dwelling      00010033422020SEP000029.92
+ELBOW PARK                    Break & Enter - Other Premises00030033422020SEP000089.77
+ELBOW PARK                    Theft FROM Vehicle            00070033422020SEP000209.46
+ELBOYA                        Assault (Non-domestic)        00010017542020SEP000057.01
+ELBOYA                        Break & Enter - Commercial    00020017542020SEP000114.03
+ELBOYA                        Break & Enter - Dwelling      00010017542020SEP000057.01
+ELBOYA                        Break & Enter - Other Premises00010017542020SEP000057.01
+ELBOYA                        Theft FROM Vehicle            00020017542020SEP000114.03
+ELBOYA                        Theft OF Vehicle              00020017542020SEP000114.03
+ELBOYA                        Violence Other (Non-domestic) 00010017542020SEP000057.01
+ERIN WOODS                    Assault (Non-domestic)        00020070492020SEP000028.37
+ERIN WOODS                    Break & Enter - Commercial    00010070492020SEP000014.19
+ERIN WOODS                    Break & Enter - Dwelling      00010070492020SEP000014.19
+ERIN WOODS                    Break & Enter - Other Premises00010070492020SEP000014.19
+ERIN WOODS                    Theft FROM Vehicle            00080070492020SEP000113.49
+ERIN WOODS                    Theft OF Vehicle              00030070492020SEP000042.56
+ERLTON                        Assault (Non-domestic)        00020012702020SEP000157.48
+ERLTON                        Break & Enter - Commercial    00010012702020SEP000078.74
+ERLTON                        Theft FROM Vehicle            00090012702020SEP000708.66
+ERLTON                        Theft OF Vehicle              00010012702020SEP000078.74
+EVANSTON                      Break & Enter - Commercial    00020176852020SEP000011.31
+EVANSTON                      Theft OF Vehicle              00010176852020SEP000005.65
+EVERGREEN                     Assault (Non-domestic)        00030215002020SEP000013.95
+EVERGREEN                     Break & Enter - Dwelling      00040215002020SEP000018.60
+EVERGREEN                     Theft FROM Vehicle            00080215002020SEP000037.21
+EVERGREEN                     Theft OF Vehicle              00010215002020SEP000004.65
+EVERGREEN                     Violence Other (Non-domestic) 00020215002020SEP000009.30
+FAIRVIEW                      Break & Enter - Commercial    00010036462020SEP000027.43
+FAIRVIEW                      Break & Enter - Dwelling      00010036462020SEP000027.43
+FAIRVIEW                      Break & Enter - Other Premises00070036462020SEP000191.99
+FAIRVIEW                      Theft FROM Vehicle            00090036462020SEP000246.85
+FALCONRIDGE                   Assault (Non-domestic)        00040106532020SEP000037.55
+FALCONRIDGE                   Break & Enter - Dwelling      00010106532020SEP000009.39
+FALCONRIDGE                   Break & Enter - Other Premises00020106532020SEP000018.77
+FALCONRIDGE                   Commercial Robbery            00010106532020SEP000009.39
+FALCONRIDGE                   Theft FROM Vehicle            00170106532020SEP000159.58
+FALCONRIDGE                   Theft OF Vehicle              00040106532020SEP000037.55
+FALCONRIDGE                   Violence Other (Non-domestic) 00020106532020SEP000018.77
+FOOTHILLS                     Assault (Non-domestic)        00020003172020SEP000630.91
+FOOTHILLS                     Break & Enter - Commercial    00040003172020SEP001261.83
+FOOTHILLS                     Theft FROM Vehicle            00060003172020SEP001892.74
+FOOTHILLS                     Theft OF Vehicle              00040003172020SEP001261.83
+FOREST HEIGHTS                Assault (Non-domestic)        00030064962020SEP000046.18
+FOREST HEIGHTS                Break & Enter - Commercial    00010064962020SEP000015.39
+FOREST HEIGHTS                Break & Enter - Other Premises00020064962020SEP000030.79
+FOREST HEIGHTS                Commercial Robbery            00020064962020SEP000030.79
+FOREST HEIGHTS                Street Robbery                00020064962020SEP000030.79
+FOREST HEIGHTS                Theft FROM Vehicle            00040064962020SEP000061.58
+FOREST HEIGHTS                Theft OF Vehicle              00010064962020SEP000015.39
+FOREST LAWN INDUSTRIAL        Assault (Non-domestic)        00010001232020SEP000813.01
+FOREST LAWN INDUSTRIAL        Break & Enter - Commercial    00010001232020SEP000813.01
+FOREST LAWN INDUSTRIAL        Theft OF Vehicle              00020001232020SEP001626.02
+FOREST LAWN                   Assault (Non-domestic)        00120078142020SEP000153.57
+FOREST LAWN                   Break & Enter - Dwelling      00010078142020SEP000012.80
+FOREST LAWN                   Break & Enter - Other Premises00020078142020SEP000025.60
+FOREST LAWN                   Theft FROM Vehicle            00080078142020SEP000102.38
+FOREST LAWN                   Theft OF Vehicle              00050078142020SEP000063.99
+FOREST LAWN                   Violence Other (Non-domestic) 00040078142020SEP000051.19
+GARRISON GREEN                Break & Enter - Dwelling      00010020602020SEP000048.54
+GARRISON GREEN                Theft FROM Vehicle            00040020602020SEP000194.17
+GARRISON WOODS                Break & Enter - Other Premises00020031162020SEP000064.18
+GARRISON WOODS                Theft OF Vehicle              00010031162020SEP000032.09
+GLAMORGAN                     Assault (Non-domestic)        00030065222020SEP000046.00
+GLAMORGAN                     Break & Enter - Commercial    00010065222020SEP000015.33
+GLAMORGAN                     Break & Enter - Dwelling      00010065222020SEP000015.33
+GLAMORGAN                     Break & Enter - Other Premises00010065222020SEP000015.33
+GLAMORGAN                     Theft FROM Vehicle            00080065222020SEP000122.66
+GLAMORGAN                     Violence Other (Non-domestic) 00010065222020SEP000015.33
+GLENBROOK                     Assault (Non-domestic)        00020074422020SEP000026.87
+GLENBROOK                     Break & Enter - Commercial    00010074422020SEP000013.44
+GLENBROOK                     Break & Enter - Other Premises00020074422020SEP000026.87
+GLENBROOK                     Street Robbery                00010074422020SEP000013.44
+GLENBROOK                     Theft FROM Vehicle            00050074422020SEP000067.19
+GLENBROOK                     Theft OF Vehicle              00020074422020SEP000026.87
+GLENDALE                      Assault (Non-domestic)        00020027652020SEP000072.33
+GLENDALE                      Break & Enter - Dwelling      00010027652020SEP000036.17
+GLENDALE                      Break & Enter - Other Premises00020027652020SEP000072.33
+GLENDALE                      Theft FROM Vehicle            00010027652020SEP000036.17
+GREENVIEW INDUSTRIAL PARK     Break & Enter - Commercial    00060002252020SEP002666.67
+GREENVIEW INDUSTRIAL PARK     Theft FROM Vehicle            00010002252020SEP000444.44
+GREENVIEW INDUSTRIAL PARK     Theft OF Vehicle              00010002252020SEP000444.44
+GREENVIEW                     Theft FROM Vehicle            00030019062020SEP000157.40
+GREENVIEW                     Theft OF Vehicle              00020019062020SEP000104.93
+GREENVIEW                     Violence Other (Non-domestic) 00020019062020SEP000104.93
+GREENWOOD/GREENBRIAR          Assault (Non-domestic)        00010008962020SEP000111.61
+GREENWOOD/GREENBRIAR          Break & Enter - Commercial    00020008962020SEP000223.21
+HAMPTONS                      Break & Enter - Dwelling      00010073822020SEP000013.55
+HAMPTONS                      Theft OF Vehicle              00020073822020SEP000027.09
+HARVEST HILLS                 Assault (Non-domestic)        00020074202020SEP000026.95
+HARVEST HILLS                 Break & Enter - Commercial    00020074202020SEP000026.95
+HARVEST HILLS                 Break & Enter - Dwelling      00050074202020SEP000067.39
+HARVEST HILLS                 Break & Enter - Other Premises00040074202020SEP000053.91
+HARVEST HILLS                 Theft FROM Vehicle            00020074202020SEP000026.95
+HARVEST HILLS                 Theft OF Vehicle              00010074202020SEP000013.48
+HAWKWOOD                      Theft FROM Vehicle            00050092482020SEP000054.07
+HAWKWOOD                      Theft OF Vehicle              00010092482020SEP000010.81
+HAYSBORO                      Assault (Non-domestic)        00010070802020SEP000014.12
+HAYSBORO                      Break & Enter - Commercial    00080070802020SEP000112.99
+HAYSBORO                      Break & Enter - Other Premises00040070802020SEP000056.50
+HAYSBORO                      Street Robbery                00010070802020SEP000014.12
+HAYSBORO                      Theft FROM Vehicle            00080070802020SEP000112.99
+HAYSBORO                      Theft OF Vehicle              00010070802020SEP000014.12
+HAYSBORO                      Violence Other (Non-domestic) 00020070802020SEP000028.25
+HIDDEN VALLEY                 Assault (Non-domestic)        00010115662020SEP000008.65
+HIDDEN VALLEY                 Break & Enter - Commercial    00010115662020SEP000008.65
+HIDDEN VALLEY                 Break & Enter - Dwelling      00010115662020SEP000008.65
+HIDDEN VALLEY                 Break & Enter - Other Premises00020115662020SEP000017.29
+HIDDEN VALLEY                 Theft FROM Vehicle            00060115662020SEP000051.88
+HIGHLAND PARK                 Assault (Non-domestic)        00020038382020SEP000052.11
+HIGHLAND PARK                 Break & Enter - Commercial    00010038382020SEP000026.06
+HIGHLAND PARK                 Break & Enter - Other Premises00050038382020SEP000130.28
+HIGHLAND PARK                 Theft FROM Vehicle            00040038382020SEP000104.22
+HIGHLAND PARK                 Theft OF Vehicle              00050038382020SEP000130.28
+HIGHWOOD                      Assault (Non-domestic)        00010022582020SEP000044.29
+HIGHWOOD                      Break & Enter - Other Premises00020022582020SEP000088.57
+HIGHWOOD                      Theft FROM Vehicle            00020022582020SEP000088.57
+HIGHWOOD                      Theft OF Vehicle              00040022582020SEP000177.15
+HILLHURST                     Assault (Non-domestic)        00030065582020SEP000045.75
+HILLHURST                     Break & Enter - Commercial    00050065582020SEP000076.24
+HILLHURST                     Break & Enter - Other Premises00040065582020SEP000060.99
+HILLHURST                     Commercial Robbery            00010065582020SEP000015.25
+HILLHURST                     Theft FROM Vehicle            00140065582020SEP000213.48
+HILLHURST                     Theft OF Vehicle              00010065582020SEP000015.25
+HILLHURST                     Violence Other (Non-domestic) 00010065582020SEP000015.25
+HOUNSFIELD HEIGHTS/BRIAR HILL Assault (Non-domestic)        00040027982020SEP000142.96
+HOUNSFIELD HEIGHTS/BRIAR HILL Break & Enter - Dwelling      00010027982020SEP000035.74
+HOUNSFIELD HEIGHTS/BRIAR HILL Break & Enter - Other Premises00030027982020SEP000107.22
+HOUNSFIELD HEIGHTS/BRIAR HILL Theft FROM Vehicle            00080027982020SEP000285.92
+HUNTINGTON HILLS              Assault (Non-domestic)        00060134202020SEP000044.71
+HUNTINGTON HILLS              Break & Enter - Dwelling      00010134202020SEP000007.45
+HUNTINGTON HILLS              Break & Enter - Other Premises00020134202020SEP000014.90
+HUNTINGTON HILLS              Theft FROM Vehicle            00110134202020SEP000081.97
+HUNTINGTON HILLS              Theft OF Vehicle              00010134202020SEP000007.45
+HUNTINGTON HILLS              Violence Other (Non-domestic) 00030134202020SEP000022.35
+INGLEWOOD                     Break & Enter - Commercial    00080040242020SEP000198.81
+INGLEWOOD                     Break & Enter - Other Premises00020040242020SEP000049.70
+INGLEWOOD                     Theft FROM Vehicle            00050040242020SEP000124.25
+KELVIN GROVE                  Break & Enter - Commercial    00010023052020SEP000043.38
+KELVIN GROVE                  Break & Enter - Other Premises00040023052020SEP000173.54
+KELVIN GROVE                  Theft FROM Vehicle            00040023052020SEP000173.54
+KILLARNEY/GLENGARRY           Assault (Non-domestic)        00020076852020SEP000026.02
+KILLARNEY/GLENGARRY           Break & Enter - Commercial    00030076852020SEP000039.04
+KILLARNEY/GLENGARRY           Break & Enter - Other Premises00070076852020SEP000091.09
+KILLARNEY/GLENGARRY           Street Robbery                00020076852020SEP000026.02
+KILLARNEY/GLENGARRY           Theft FROM Vehicle            00100076852020SEP000130.12
+KILLARNEY/GLENGARRY           Theft OF Vehicle              00020076852020SEP000026.02
+KINCORA                       Break & Enter - Commercial    00010068892020SEP000014.52
+KINCORA                       Theft FROM Vehicle            00090068892020SEP000130.64
+KINGSLAND                     Assault (Non-domestic)        00040046882020SEP000085.32
+KINGSLAND                     Break & Enter - Commercial    00030046882020SEP000063.99
+KINGSLAND                     Break & Enter - Other Premises00010046882020SEP000021.33
+KINGSLAND                     Theft FROM Vehicle            00060046882020SEP000127.99
+KINGSLAND                     Theft OF Vehicle              00040046882020SEP000085.32
+KINGSLAND                     Violence Other (Non-domestic) 00020046882020SEP000042.66
+LAKE BONAVISTA                Break & Enter - Commercial    00040102932020SEP000038.86
+LAKE BONAVISTA                Break & Enter - Dwelling      00010102932020SEP000009.72
+LAKE BONAVISTA                Break & Enter - Other Premises00020102932020SEP000019.43
+LAKE BONAVISTA                Theft FROM Vehicle            00070102932020SEP000068.01
+LAKE BONAVISTA                Theft OF Vehicle              00040102932020SEP000038.86
+LAKE BONAVISTA                Violence Other (Non-domestic) 00010102932020SEP000009.72
+LAKEVIEW                      Break & Enter - Commercial    00020053552020SEP000037.35
+LAKEVIEW                      Break & Enter - Dwelling      00010053552020SEP000018.67
+LAKEVIEW                      Break & Enter - Other Premises00020053552020SEP000037.35
+LAKEVIEW                      Commercial Robbery            00010053552020SEP000018.67
+LAKEVIEW                      Theft FROM Vehicle            00040053552020SEP000074.70
+LAKEVIEW                      Theft OF Vehicle              00020053552020SEP000037.35
+LEGACY                        Assault (Non-domestic)        00020064202020SEP000031.15
+LEGACY                        Break & Enter - Dwelling      00020064202020SEP000031.15
+LEGACY                        Theft FROM Vehicle            00020064202020SEP000031.15
+LINCOLN PARK                  Theft FROM Vehicle            00030026172020SEP000114.64
+LINCOLN PARK                  Theft OF Vehicle              00010026172020SEP000038.21
+LOWER MOUNT ROYAL             Assault (Non-domestic)        00020034572020SEP000057.85
+LOWER MOUNT ROYAL             Break & Enter - Commercial    00060034572020SEP000173.56
+LOWER MOUNT ROYAL             Theft FROM Vehicle            00060034572020SEP000173.56
+LOWER MOUNT ROYAL             Theft OF Vehicle              00010034572020SEP000028.93
+MACEWAN GLEN                  Break & Enter - Dwelling      00010047542020SEP000021.03
+MACEWAN GLEN                  Break & Enter - Other Premises00010047542020SEP000021.03
+MACEWAN GLEN                  Theft FROM Vehicle            00030047542020SEP000063.10
+MACEWAN GLEN                  Theft OF Vehicle              00010047542020SEP000021.03
+MAHOGANY                      Break & Enter - Commercial    00040117842020SEP000033.94
+MAHOGANY                      Theft FROM Vehicle            00010117842020SEP000008.49
+MAHOGANY                      Violence Other (Non-domestic) 00010117842020SEP000008.49
+MANCHESTER                    Break & Enter - Commercial    00030010252020SEP000292.68
+MANCHESTER                    Theft FROM Vehicle            00010010252020SEP000097.56
+MANCHESTER                    Violence Other (Non-domestic) 00020010252020SEP000195.12
+MARLBOROUGH PARK              Break & Enter - Commercial    00010085232020SEP000011.73
+MARLBOROUGH PARK              Break & Enter - Dwelling      00010085232020SEP000011.73
+MARLBOROUGH PARK              Theft FROM Vehicle            00060085232020SEP000070.40
+MARLBOROUGH PARK              Theft OF Vehicle              00030085232020SEP000035.20
+MARLBOROUGH PARK              Violence Other (Non-domestic) 00030085232020SEP000035.20
+MARLBOROUGH                   Assault (Non-domestic)        00060091622020SEP000065.49
+MARLBOROUGH                   Break & Enter - Dwelling      00020091622020SEP000021.83
+MARLBOROUGH                   Break & Enter - Other Premises00010091622020SEP000010.91
+MARLBOROUGH                   Commercial Robbery            00030091622020SEP000032.74
+MARLBOROUGH                   Theft FROM Vehicle            00020091622020SEP000021.83
+MARLBOROUGH                   Theft OF Vehicle              00010091622020SEP000010.91
+MARTINDALE                    Assault (Non-domestic)        00010142452020SEP000007.02
+MARTINDALE                    Break & Enter - Dwelling      00010142452020SEP000007.02
+MARTINDALE                    Break & Enter - Other Premises00050142452020SEP000035.10
+MARTINDALE                    Theft FROM Vehicle            00060142452020SEP000042.12
+MARTINDALE                    Theft OF Vehicle              00040142452020SEP000028.08
+MARTINDALE                    Violence Other (Non-domestic) 00020142452020SEP000014.04
+MAYFAIR                       Break & Enter - Dwelling      00010004322020SEP000231.48
+MAYLAND HEIGHTS               Break & Enter - Dwelling      00010059612020SEP000016.78
+MAYLAND HEIGHTS               Break & Enter - Other Premises00010059612020SEP000016.78
+MAYLAND HEIGHTS               Theft FROM Vehicle            00100059612020SEP000167.76
+MAYLAND HEIGHTS               Theft OF Vehicle              00030059612020SEP000050.33
+MCKENZIE LAKE                 Assault (Non-domestic)        00010134062020SEP000007.46
+MCKENZIE LAKE                 Break & Enter - Commercial    00010134062020SEP000007.46
+MCKENZIE LAKE                 Break & Enter - Dwelling      00020134062020SEP000014.92
+MCKENZIE LAKE                 Theft FROM Vehicle            00060134062020SEP000044.76
+MCKENZIE LAKE                 Theft OF Vehicle              00020134062020SEP000014.92
+MCKENZIE LAKE                 Violence Other (Non-domestic) 00010134062020SEP000007.46
+MCKENZIE TOWNE                Assault (Non-domestic)        00020182832020SEP000010.94
+MCKENZIE TOWNE                Break & Enter - Other Premises00020182832020SEP000010.94
+MCKENZIE TOWNE                Theft FROM Vehicle            00150182832020SEP000082.04
+MCKENZIE TOWNE                Theft OF Vehicle              00050182832020SEP000027.35
+MCKENZIE TOWNE                Violence Other (Non-domestic) 00020182832020SEP000010.94
+MEADOWLARK PARK               Assault (Non-domestic)        00010006442020SEP000155.28
+MEADOWLARK PARK               Break & Enter - Other Premises00030006442020SEP000465.84
+MEADOWLARK PARK               Theft FROM Vehicle            00050006442020SEP000776.40
+MEADOWLARK PARK               Theft OF Vehicle              00010006442020SEP000155.28
+MIDNAPORE                     Assault (Non-domestic)        00020072702020SEP000027.51
+MIDNAPORE                     Break & Enter - Commercial    00010072702020SEP000013.76
+MIDNAPORE                     Break & Enter - Other Premises00010072702020SEP000013.76
+MIDNAPORE                     Theft FROM Vehicle            00020072702020SEP000027.51
+MIDNAPORE                     Theft OF Vehicle              00050072702020SEP000068.78
+MIDNAPORE                     Violence Other (Non-domestic) 00020072702020SEP000027.51
+MILLRISE                      Break & Enter - Commercial    00020069002020SEP000028.99
+MILLRISE                      Break & Enter - Dwelling      00010069002020SEP000014.49
+MILLRISE                      Theft FROM Vehicle            00010069002020SEP000014.49
+MISSION                       Assault (Non-domestic)        00030045982020SEP000065.25
+MISSION                       Break & Enter - Commercial    00100045982020SEP000217.49
+MISSION                       Break & Enter - Other Premises00020045982020SEP000043.50
+MISSION                       Commercial Robbery            00010045982020SEP000021.75
+MISSION                       Street Robbery                00010045982020SEP000021.75
+MISSION                       Theft FROM Vehicle            00150045982020SEP000326.23
+MISSION                       Theft OF Vehicle              00010045982020SEP000021.75
+MISSION                       Violence Other (Non-domestic) 00020045982020SEP000043.50
+MONTEREY PARK                 Assault (Non-domestic)        00010103722020SEP000009.64
+MONTEREY PARK                 Break & Enter - Dwelling      00010103722020SEP000009.64
+MONTEREY PARK                 Theft FROM Vehicle            00040103722020SEP000038.57
+MONTEREY PARK                 Theft OF Vehicle              00020103722020SEP000019.28
+MONTEREY PARK                 Violence Other (Non-domestic) 00010103722020SEP000009.64
+MONTGOMERY                    Assault (Non-domestic)        00020045152020SEP000044.30
+MONTGOMERY                    Theft FROM Vehicle            00040045152020SEP000088.59
+MONTGOMERY                    Theft OF Vehicle              00040045152020SEP000088.59
+MONTGOMERY                    Violence Other (Non-domestic) 00020045152020SEP000044.30
+MOUNT PLEASANT                Break & Enter - Commercial    00020058892020SEP000033.96
+MOUNT PLEASANT                Break & Enter - Dwelling      00010058892020SEP000016.98
+MOUNT PLEASANT                Break & Enter - Other Premises00060058892020SEP000101.88
+MOUNT PLEASANT                Commercial Robbery            00010058892020SEP000016.98
+MOUNT PLEASANT                Theft FROM Vehicle            00100058892020SEP000169.81
+MOUNT PLEASANT                Theft OF Vehicle              00030058892020SEP000050.94
+MOUNT PLEASANT                Violence Other (Non-domestic) 00010058892020SEP000016.98
+NEW BRIGHTON                  Theft FROM Vehicle            00040131032020SEP000030.53
+NEW BRIGHTON                  Theft OF Vehicle              00020131032020SEP000015.26
+NOLAN HILL                    Break & Enter - Dwelling      00010075052020SEP000013.32
+NOLAN HILL                    Theft FROM Vehicle            00040075052020SEP000053.30
+NORTH GLENMORE PARK           Break & Enter - Other Premises00040023912020SEP000167.29
+NORTH GLENMORE PARK           Theft FROM Vehicle            00010023912020SEP000041.82
+NORTH GLENMORE PARK           Theft OF Vehicle              00020023912020SEP000083.65
+NORTH HAVEN UPPER             Assault (Non-domestic)        00010005992020SEP000166.94
+NORTH HAVEN                   Theft FROM Vehicle            00010023592020SEP000042.39
+NORTH HAVEN                   Theft OF Vehicle              00020023592020SEP000084.78
+OAKRIDGE                      Assault (Non-domestic)        00020056902020SEP000035.15
+OAKRIDGE                      Break & Enter - Dwelling      00020056902020SEP000035.15
+OAKRIDGE                      Theft FROM Vehicle            00030056902020SEP000052.72
+OAKRIDGE                      Theft OF Vehicle              00010056902020SEP000017.57
+OGDEN                         Assault (Non-domestic)        00020085762020SEP000023.32
+OGDEN                         Break & Enter - Commercial    00010085762020SEP000011.66
+OGDEN                         Break & Enter - Dwelling      00010085762020SEP000011.66
+OGDEN                         Street Robbery                00010085762020SEP000011.66
+OGDEN                         Theft FROM Vehicle            00070085762020SEP000081.62
+OGDEN                         Theft OF Vehicle              00080085762020SEP000093.28
+OGDEN                         Violence Other (Non-domestic) 00040085762020SEP000046.64
+PALLISER                      Break & Enter - Commercial    00020036722020SEP000054.47
+PALLISER                      Theft FROM Vehicle            00040036722020SEP000108.93
+PALLISER                      Theft OF Vehicle              00010036722020SEP000027.23
+PANORAMA HILLS                Assault (Non-domestic)        00020257102020SEP000007.78
+PANORAMA HILLS                Break & Enter - Dwelling      00010257102020SEP000003.89
+PANORAMA HILLS                Street Robbery                00030257102020SEP000011.67
+PANORAMA HILLS                Theft FROM Vehicle            00010257102020SEP000003.89
+PANORAMA HILLS                Theft OF Vehicle              00010257102020SEP000003.89
+PANORAMA HILLS                Violence Other (Non-domestic) 00030257102020SEP000011.67
+PARKDALE                      Assault (Non-domestic)        00020025662020SEP000077.94
+PARKDALE                      Break & Enter - Other Premises00030025662020SEP000116.91
+PARKDALE                      Theft FROM Vehicle            00010025662020SEP000038.97
+PARKHILL                      Assault (Non-domestic)        00030016912020SEP000177.41
+PARKHILL                      Break & Enter - Commercial    00010016912020SEP000059.14
+PARKHILL                      Street Robbery                00010016912020SEP000059.14
+PARKHILL                      Theft FROM Vehicle            00100016912020SEP000591.37
+PARKHILL                      Theft OF Vehicle              00010016912020SEP000059.14
+PARKLAND                      Theft FROM Vehicle            00010036602020SEP000027.32
+PARKLAND                      Theft OF Vehicle              00010036602020SEP000027.32
+PATTERSON                     Assault (Non-domestic)        00010042022020SEP000023.80
+PATTERSON                     Theft FROM Vehicle            00020042022020SEP000047.60
+PENBROOKE MEADOWS             Assault (Non-domestic)        00030085542020SEP000035.07
+PENBROOKE MEADOWS             Break & Enter - Commercial    00020085542020SEP000023.38
+PENBROOKE MEADOWS             Break & Enter - Other Premises00050085542020SEP000058.45
+PENBROOKE MEADOWS             Theft FROM Vehicle            00100085542020SEP000116.90
+PENBROOKE MEADOWS             Theft OF Vehicle              00090085542020SEP000105.21
+PINERIDGE                     Assault (Non-domestic)        00040100222020SEP000039.91
+PINERIDGE                     Break & Enter - Commercial    00030100222020SEP000029.93
+PINERIDGE                     Break & Enter - Dwelling      00010100222020SEP000009.98
+PINERIDGE                     Commercial Robbery            00010100222020SEP000009.98
+PINERIDGE                     Theft FROM Vehicle            00060100222020SEP000059.87
+PINERIDGE                     Theft OF Vehicle              00020100222020SEP000019.96
+PINERIDGE                     Violence Other (Non-domestic) 00010100222020SEP000009.98
+POINT MCKAY                   Theft FROM Vehicle            00010013432020SEP000074.46
+PUMP HILL                     Theft FROM Vehicle            00010016402020SEP000060.98
+PUMP HILL                     Theft OF Vehicle              00010016402020SEP000060.98
+QUEENSLAND                    Break & Enter - Other Premises00010047432020SEP000021.08
+QUEENSLAND                    Theft FROM Vehicle            00020047432020SEP000042.17
+QUEENSLAND                    Theft OF Vehicle              00020047432020SEP000042.17
+RAMSAY                        Break & Enter - Commercial    00010021582020SEP000046.34
+RAMSAY                        Break & Enter - Dwelling      00010021582020SEP000046.34
+RAMSAY                        Break & Enter - Other Premises00010021582020SEP000046.34
+RAMSAY                        Theft FROM Vehicle            00050021582020SEP000231.70
+RAMSAY                        Theft OF Vehicle              00010021582020SEP000046.34
+RANCHLANDS                    Theft FROM Vehicle            00020076072020SEP000026.29
+RED CARPET                    Break & Enter - Commercial    00010015942020SEP000062.74
+RED CARPET                    Theft FROM Vehicle            00030015942020SEP000188.21
+RED CARPET                    Theft OF Vehicle              00020015942020SEP000125.47
+REDSTONE                      Theft FROM Vehicle            00020058482020SEP000034.20
+REDSTONE                      Theft OF Vehicle              00030058482020SEP000051.30
+RENFREW                       Assault (Non-domestic)        00020065822020SEP000030.39
+RENFREW                       Break & Enter - Other Premises00020065822020SEP000030.39
+RENFREW                       Theft FROM Vehicle            00080065822020SEP000121.54
+RENFREW                       Theft OF Vehicle              00060065822020SEP000091.16
+RENFREW                       Violence Other (Non-domestic) 00020065822020SEP000030.39
+RICHMOND                      Assault (Non-domestic)        00010049622020SEP000020.15
+RICHMOND                      Break & Enter - Commercial    00070049622020SEP000141.07
+RICHMOND                      Break & Enter - Dwelling      00010049622020SEP000020.15
+RICHMOND                      Break & Enter - Other Premises00120049622020SEP000241.84
+RICHMOND                      Theft FROM Vehicle            00060049622020SEP000120.92
+RICHMOND                      Theft OF Vehicle              00090049622020SEP000181.38
+RICHMOND                      Violence Other (Non-domestic) 00020049622020SEP000040.31
+RIDEAU PARK                   Break & Enter - Other Premises00010005942020SEP000168.35
+RIDEAU PARK                   Theft FROM Vehicle            00040005942020SEP000673.40
+RIVERBEND                     Assault (Non-domestic)        00010092442020SEP000010.82
+RIVERBEND                     Break & Enter - Commercial    00010092442020SEP000010.82
+RIVERBEND                     Theft FROM Vehicle            00030092442020SEP000032.45
+RIVERBEND                     Theft OF Vehicle              00020092442020SEP000021.64
+ROCKY RIDGE                   Break & Enter - Dwelling      00020083982020SEP000023.82
+ROCKY RIDGE                   Theft FROM Vehicle            00010083982020SEP000011.91
+ROCKY RIDGE                   Theft OF Vehicle              00010083982020SEP000011.91
+ROSEDALE                      Break & Enter - Dwelling      00010015602020SEP000064.10
+ROSEDALE                      Theft FROM Vehicle            00020015602020SEP000128.21
+ROSEMONT                      Theft FROM Vehicle            00030012542020SEP000239.23
+ROSSCARROCK                   Assault (Non-domestic)        00040036252020SEP000110.34
+ROSSCARROCK                   Break & Enter - Dwelling      00020036252020SEP000055.17
+ROSSCARROCK                   Theft FROM Vehicle            00030036252020SEP000082.76
+ROSSCARROCK                   Theft OF Vehicle              00020036252020SEP000055.17
+ROSSCARROCK                   Violence Other (Non-domestic) 00010036252020SEP000027.59
+ROXBORO                       Theft FROM Vehicle            00010004222020SEP000236.97
+ROYAL OAK                     Theft FROM Vehicle            00030117062020SEP000025.63
+RUNDLE                        Assault (Non-domestic)        00080116882020SEP000068.45
+RUNDLE                        Break & Enter - Other Premises00030116882020SEP000025.67
+RUNDLE                        Theft FROM Vehicle            00120116882020SEP000102.67
+RUNDLE                        Theft OF Vehicle              00050116882020SEP000042.78
+RUNDLE                        Violence Other (Non-domestic) 00020116882020SEP000017.11
+RUTLAND PARK                  Break & Enter - Dwelling      00010022632020SEP000044.19
+RUTLAND PARK                  Theft FROM Vehicle            00040022632020SEP000176.76
+RUTLAND PARK                  Theft OF Vehicle              00020022632020SEP000088.38
+SADDLE RIDGE INDUSTRIAL       Break & Enter - Commercial    00030000252020SEP012000.00
+SADDLE RIDGE INDUSTRIAL       Theft FROM Vehicle            00020000252020SEP008000.00
+SADDLE RIDGE INDUSTRIAL       Theft OF Vehicle              00060000252020SEP024000.00
+SADDLE RIDGE                  Assault (Non-domestic)        00040223212020SEP000017.92
+SADDLE RIDGE                  Break & Enter - Dwelling      00020223212020SEP000008.96
+SADDLE RIDGE                  Break & Enter - Other Premises00010223212020SEP000004.48
+SADDLE RIDGE                  Theft FROM Vehicle            00130223212020SEP000058.24
+SADDLE RIDGE                  Theft OF Vehicle              00080223212020SEP000035.84
+SADDLE RIDGE                  Violence Other (Non-domestic) 00040223212020SEP000017.92
+SANDSTONE VALLEY              Break & Enter - Dwelling      00020059042020SEP000033.88
+SANDSTONE VALLEY              Theft FROM Vehicle            00040059042020SEP000067.75
+SANDSTONE VALLEY              Theft OF Vehicle              00010059042020SEP000016.94
+SCARBORO                      Break & Enter - Other Premises00020009312020SEP000214.82
+SCARBORO                      Theft FROM Vehicle            00030009312020SEP000322.23
+SCARBORO/ SUNALTA WEST        Theft FROM Vehicle            00010004012020SEP000249.38
+SCENIC ACRES                  Assault (Non-domestic)        00010080672020SEP000012.40
+SCENIC ACRES                  Break & Enter - Dwelling      00010080672020SEP000012.40
+SCENIC ACRES                  Theft FROM Vehicle            00010080672020SEP000012.40
+SCENIC ACRES                  Theft OF Vehicle              00010080672020SEP000012.40
+SCENIC ACRES                  Violence Other (Non-domestic) 00010080672020SEP000012.40
+SETON                         Assault (Non-domestic)        00010011342020SEP000088.18
+SETON                         Break & Enter - Commercial    00030011342020SEP000264.55
+SETON                         Street Robbery                00010011342020SEP000088.18
+SETON                         Theft FROM Vehicle            00060011342020SEP000529.10
+SHAGANAPPI                    Assault (Non-domestic)        00010016262020SEP000061.50
+SHAGANAPPI                    Break & Enter - Other Premises00020016262020SEP000123.00
+SHAGANAPPI                    Theft FROM Vehicle            00050016262020SEP000307.50
+SHAGANAPPI                    Theft OF Vehicle              00010016262020SEP000061.50
+SHAWNEE SLOPES                Theft FROM Vehicle            00040019112020SEP000209.31
+SHAWNESSY                     Assault (Non-domestic)        00050093682020SEP000053.37
+SHAWNESSY                     Break & Enter - Commercial    00030093682020SEP000032.02
+SHAWNESSY                     Theft FROM Vehicle            00080093682020SEP000085.40
+SHAWNESSY                     Theft OF Vehicle              00020093682020SEP000021.35
+SHEPARD INDUSTRIAL            Break & Enter - Commercial    00010002552020SEP000392.16
+SHEPARD INDUSTRIAL            Break & Enter - Other Premises00010002552020SEP000392.16
+SHEPARD INDUSTRIAL            Theft FROM Vehicle            00020002552020SEP000784.31
+SHEPARD INDUSTRIAL            Theft OF Vehicle              00010002552020SEP000392.16
+SHERWOOD                      Assault (Non-domestic)        00010062462020SEP000016.01
+SHERWOOD                      Break & Enter - Commercial    00010062462020SEP000016.01
+SHERWOOD                      Theft FROM Vehicle            00020062462020SEP000032.02
+SIGNAL HILL                   Assault (Non-domestic)        00010133952020SEP000007.47
+SIGNAL HILL                   Break & Enter - Commercial    00010133952020SEP000007.47
+SIGNAL HILL                   Break & Enter - Dwelling      00030133952020SEP000022.40
+SIGNAL HILL                   Break & Enter - Other Premises00010133952020SEP000007.47
+SIGNAL HILL                   Commercial Robbery            00010133952020SEP000007.47
+SIGNAL HILL                   Theft FROM Vehicle            00090133952020SEP000067.19
+SIGNAL HILL                   Theft OF Vehicle              00040133952020SEP000029.86
+SIGNAL HILL                   Violence Other (Non-domestic) 00040133952020SEP000029.86
+SILVER SPRINGS                Break & Enter - Other Premises00060086792020SEP000069.13
+SILVER SPRINGS                Theft FROM Vehicle            00100086792020SEP000115.22
+SILVER SPRINGS                Theft OF Vehicle              00020086792020SEP000023.04
+SILVER SPRINGS                Violence Other (Non-domestic) 00010086792020SEP000011.52
+SILVERADO                     Assault (Non-domestic)        00010076552020SEP000013.06
+SILVERADO                     Commercial Robbery            00010076552020SEP000013.06
+SILVERADO                     Theft FROM Vehicle            00040076552020SEP000052.25
+SILVERADO                     Theft OF Vehicle              00030076552020SEP000039.19
+SKYVIEW RANCH                 Assault (Non-domestic)        00010117072020SEP000008.54
+SKYVIEW RANCH                 Break & Enter - Dwelling      00020117072020SEP000017.08
+SKYVIEW RANCH                 Break & Enter - Other Premises00020117072020SEP000017.08
+SKYVIEW RANCH                 Theft FROM Vehicle            00080117072020SEP000068.34
+SKYVIEW RANCH                 Theft OF Vehicle              00040117072020SEP000034.17
+SKYVIEW RANCH                 Violence Other (Non-domestic) 00010117072020SEP000008.54
+SOMERSET                      Assault (Non-domestic)        00020085432020SEP000023.41
+SOMERSET                      Break & Enter - Commercial    00020085432020SEP000023.41
+SOMERSET                      Break & Enter - Dwelling      00010085432020SEP000011.71
+SOMERSET                      Break & Enter - Other Premises00010085432020SEP000011.71
+SOMERSET                      Theft FROM Vehicle            00110085432020SEP000128.76
+SOUTH CALGARY                 Assault (Non-domestic)        00010044422020SEP000022.51
+SOUTH CALGARY                 Break & Enter - Commercial    00020044422020SEP000045.02
+SOUTH CALGARY                 Break & Enter - Dwelling      00010044422020SEP000022.51
+SOUTH CALGARY                 Break & Enter - Other Premises00030044422020SEP000067.54
+SOUTH CALGARY                 Theft FROM Vehicle            00040044422020SEP000090.05
+SOUTH CALGARY                 Theft OF Vehicle              00010044422020SEP000022.51
+SOUTH CALGARY                 Violence Other (Non-domestic) 00020044422020SEP000045.02
+SOUTHVIEW                     Theft FROM Vehicle            00030018052020SEP000166.20
+SOUTHVIEW                     Theft OF Vehicle              00030018052020SEP000166.20
+SOUTHVIEW                     Violence Other (Non-domestic) 00020018052020SEP000110.80
+SOUTHWOOD                     Assault (Non-domestic)        00010062462020SEP000016.01
+SOUTHWOOD                     Break & Enter - Commercial    00010062462020SEP000016.01
+SOUTHWOOD                     Break & Enter - Dwelling      00010062462020SEP000016.01
+SOUTHWOOD                     Break & Enter - Other Premises00010062462020SEP000016.01
+SOUTHWOOD                     Theft FROM Vehicle            00050062462020SEP000080.05
+SOUTHWOOD                     Theft OF Vehicle              00020062462020SEP000032.02
+SPRINGBANK HILL               Break & Enter - Commercial    00010099432020SEP000010.06
+SPRINGBANK HILL               Break & Enter - Dwelling      00020099432020SEP000020.11
+SPRINGBANK HILL               Commercial Robbery            00010099432020SEP000010.06
+SPRINGBANK HILL               Theft FROM Vehicle            00050099432020SEP000050.29
+SPRINGBANK HILL               Violence Other (Non-domestic) 00030099432020SEP000030.17
+SPRUCE CLIFF                  Assault (Non-domestic)        00020046732020SEP000042.80
+SPRUCE CLIFF                  Break & Enter - Commercial    00010046732020SEP000021.40
+SPRUCE CLIFF                  Theft FROM Vehicle            00010046732020SEP000021.40
+SPRUCE CLIFF                  Theft OF Vehicle              00020046732020SEP000042.80
+SPRUCE CLIFF                  Violence Other (Non-domestic) 00010046732020SEP000021.40
+ST. ANDREWS HEIGHTS           Assault (Non-domestic)        00020017952020SEP000111.42
+ST. ANDREWS HEIGHTS           Break & Enter - Dwelling      00020017952020SEP000111.42
+ST. ANDREWS HEIGHTS           Break & Enter - Other Premises00010017952020SEP000055.71
+ST. ANDREWS HEIGHTS           Theft FROM Vehicle            00030017952020SEP000167.13
+ST. ANDREWS HEIGHTS           Violence Other (Non-domestic) 00020017952020SEP000111.42
+STRATHCONA PARK               Break & Enter - Commercial    00010068552020SEP000014.59
+STRATHCONA PARK               Break & Enter - Dwelling      00030068552020SEP000043.76
+STRATHCONA PARK               Commercial Robbery            00010068552020SEP000014.59
+STRATHCONA PARK               Theft FROM Vehicle            00040068552020SEP000058.35
+STRATHCONA PARK               Theft OF Vehicle              00010068552020SEP000014.59
+STRATHCONA PARK               Violence Other (Non-domestic) 00020068552020SEP000029.18
+SUNALTA                       Assault (Non-domestic)        00010032392020SEP000030.87
+SUNALTA                       Break & Enter - Commercial    00050032392020SEP000154.37
+SUNALTA                       Theft FROM Vehicle            00110032392020SEP000339.61
+SUNALTA                       Theft OF Vehicle              00010032392020SEP000030.87
+SUNALTA                       Violence Other (Non-domestic) 00010032392020SEP000030.87
+SUNDANCE                      Break & Enter - Commercial    00010097362020SEP000010.27
+SUNDANCE                      Theft FROM Vehicle            00070097362020SEP000071.90
+SUNDANCE                      Theft OF Vehicle              00020097362020SEP000020.54
+SUNDANCE                      Violence Other (Non-domestic) 00020097362020SEP000020.54
+SUNNYSIDE                     Assault (Non-domestic)        00040042302020SEP000094.56
+SUNNYSIDE                     Break & Enter - Commercial    00030042302020SEP000070.92
+SUNNYSIDE                     Break & Enter - Dwelling      00010042302020SEP000023.64
+SUNNYSIDE                     Break & Enter - Other Premises00020042302020SEP000047.28
+SUNNYSIDE                     Theft FROM Vehicle            00130042302020SEP000307.33
+SUNNYSIDE                     Theft OF Vehicle              00040042302020SEP000094.56
+SUNRIDGE                      Assault (Non-domestic)        00060000112020SEP054545.45
+SUNRIDGE                      Break & Enter - Commercial    00010000112020SEP009090.91
+SUNRIDGE                      Break & Enter - Dwelling      00010000112020SEP009090.91
+SUNRIDGE                      Theft FROM Vehicle            00090000112020SEP081818.18
+SUNRIDGE                      Theft OF Vehicle              00010000112020SEP009090.91
+SUNRIDGE                      Violence Other (Non-domestic) 00020000112020SEP018181.82
+TARADALE                      Assault (Non-domestic)        00010190262020SEP000005.26
+TARADALE                      Break & Enter - Dwelling      00020190262020SEP000010.51
+TARADALE                      Break & Enter - Other Premises00040190262020SEP000021.02
+TARADALE                      Theft FROM Vehicle            00120190262020SEP000063.07
+TARADALE                      Theft OF Vehicle              00050190262020SEP000026.28
+TEMPLE                        Assault (Non-domestic)        00020109772020SEP000018.22
+TEMPLE                        Break & Enter - Dwelling      00020109772020SEP000018.22
+TEMPLE                        Theft FROM Vehicle            00110109772020SEP000100.21
+TEMPLE                        Theft OF Vehicle              00070109772020SEP000063.77
+TEMPLE                        Violence Other (Non-domestic) 00010109772020SEP000009.11
+THORNCLIFFE                   Assault (Non-domestic)        00020087882020SEP000022.76
+THORNCLIFFE                   Commercial Robbery            00010087882020SEP000011.38
+THORNCLIFFE                   Theft FROM Vehicle            00110087882020SEP000125.17
+THORNCLIFFE                   Theft OF Vehicle              00060087882020SEP000068.27
+THORNCLIFFE                   Violence Other (Non-domestic) 00020087882020SEP000022.76
+TUSCANY                       Assault (Non-domestic)        00030198842020SEP000015.09
+TUSCANY                       Break & Enter - Dwelling      00020198842020SEP000010.06
+TUSCANY                       Theft FROM Vehicle            00060198842020SEP000030.18
+TUSCANY                       Theft OF Vehicle              00010198842020SEP000005.03
+TUSCANY                       Violence Other (Non-domestic) 00010198842020SEP000005.03
+TUXEDO PARK                   Assault (Non-domestic)        00020053262020SEP000037.55
+TUXEDO PARK                   Break & Enter - Commercial    00010053262020SEP000018.78
+TUXEDO PARK                   Break & Enter - Other Premises00150053262020SEP000281.64
+TUXEDO PARK                   Commercial Robbery            00010053262020SEP000018.78
+TUXEDO PARK                   Street Robbery                00020053262020SEP000037.55
+TUXEDO PARK                   Theft FROM Vehicle            00160053262020SEP000300.41
+TUXEDO PARK                   Theft OF Vehicle              00020053262020SEP000037.55
+UNIVERSITY DISTRICT           Assault (Non-domestic)        00020007052020SEP000283.69
+UNIVERSITY HEIGHTS            Assault (Non-domestic)        00010029212020SEP000034.23
+UNIVERSITY HEIGHTS            Break & Enter - Dwelling      00010029212020SEP000034.23
+UNIVERSITY HEIGHTS            Theft OF Vehicle              00020029212020SEP000068.47
+UNIVERSITY OF CALGARY         Break & Enter - Commercial    00020023672020SEP000084.50
+UPPER MOUNT ROYAL             Break & Enter - Commercial    00010024782020SEP000040.36
+UPPER MOUNT ROYAL             Break & Enter - Other Premises00050024782020SEP000201.78
+UPPER MOUNT ROYAL             Theft FROM Vehicle            00050024782020SEP000201.78
+UPPER MOUNT ROYAL             Theft OF Vehicle              00010024782020SEP000040.36
+VALLEY RIDGE                  Break & Enter - Other Premises00010055852020SEP000017.91
+VALLEY RIDGE                  Theft OF Vehicle              00010055852020SEP000017.91
+VARSITY                       Assault (Non-domestic)        00010128742020SEP000007.77
+VARSITY                       Break & Enter - Commercial    00040128742020SEP000031.07
+VARSITY                       Break & Enter - Other Premises00010128742020SEP000007.77
+VARSITY                       Theft FROM Vehicle            00120128742020SEP000093.21
+VARSITY                       Theft OF Vehicle              00030128742020SEP000023.30
+VARSITY                       Violence Other (Non-domestic) 00010128742020SEP000007.77
+VISTA HEIGHTS                 Assault (Non-domestic)        00010023702020SEP000042.19
+VISTA HEIGHTS                 Theft FROM Vehicle            00040023702020SEP000168.78
+VISTA HEIGHTS                 Violence Other (Non-domestic) 00010023702020SEP000042.19
+WALDEN                        Break & Enter - Dwelling      00010062282020SEP000016.06
+WALDEN                        Theft FROM Vehicle            00010062282020SEP000016.06
+WALDEN                        Theft OF Vehicle              00010062282020SEP000016.06
+WEST HILLHURST                Assault (Non-domestic)        00030064472020SEP000046.53
+WEST HILLHURST                Break & Enter - Commercial    00030064472020SEP000046.53
+WEST HILLHURST                Break & Enter - Dwelling      00020064472020SEP000031.02
+WEST HILLHURST                Break & Enter - Other Premises00200064472020SEP000310.22
+WEST HILLHURST                Theft FROM Vehicle            00110064472020SEP000170.62
+WEST HILLHURST                Theft OF Vehicle              00020064472020SEP000031.02
+WEST HILLHURST                Violence Other (Non-domestic) 00020064472020SEP000031.02
+WEST SPRINGS                  Break & Enter - Dwelling      00070107582020SEP000065.07
+WEST SPRINGS                  Street Robbery                00010107582020SEP000009.30
+WEST SPRINGS                  Theft FROM Vehicle            00080107582020SEP000074.36
+WEST SPRINGS                  Theft OF Vehicle              00010107582020SEP000009.30
+WEST SPRINGS                  Violence Other (Non-domestic) 00010107582020SEP000009.30
+WESTGATE                      Theft FROM Vehicle            00050032022020SEP000156.15
+WESTGATE                      Theft OF Vehicle              00010032022020SEP000031.23
+WHITEHORN                     Assault (Non-domestic)        00030120192020SEP000024.96
+WHITEHORN                     Break & Enter - Commercial    00010120192020SEP000008.32
+WHITEHORN                     Break & Enter - Dwelling      00020120192020SEP000016.64
+WHITEHORN                     Break & Enter - Other Premises00030120192020SEP000024.96
+WHITEHORN                     Theft FROM Vehicle            00090120192020SEP000074.88
+WHITEHORN                     Theft OF Vehicle              00040120192020SEP000033.28
+WHITEHORN                     Violence Other (Non-domestic) 00010120192020SEP000008.32
+WILDWOOD                      Theft OF Vehicle              00010027092020SEP000036.91
+WILLOW PARK                   Break & Enter - Commercial    00010053282020SEP000018.77
+WILLOW PARK                   Break & Enter - Dwelling      00010053282020SEP000018.77
+WILLOW PARK                   Break & Enter - Other Premises00070053282020SEP000131.38
+WILLOW PARK                   Commercial Robbery            00010053282020SEP000018.77
+WILLOW PARK                   Theft FROM Vehicle            00010053282020SEP000018.77
+WILLOW PARK                   Theft OF Vehicle              00020053282020SEP000037.54
+WINDSOR PARK                  Break & Enter - Commercial    00020045842020SEP000043.63
+WINDSOR PARK                  Break & Enter - Other Premises00020045842020SEP000043.63
+WINDSOR PARK                  Theft FROM Vehicle            00140045842020SEP000305.41
+WINDSOR PARK                  Theft OF Vehicle              00020045842020SEP000043.63
+WINDSOR PARK                  Violence Other (Non-domestic) 00030045842020SEP000065.45
+WINSTON HEIGHTS/MOUNTVIEW     Assault (Non-domestic)        00020036352020SEP000055.02
+WINSTON HEIGHTS/MOUNTVIEW     Break & Enter - Other Premises00030036352020SEP000082.53
+WINSTON HEIGHTS/MOUNTVIEW     Theft FROM Vehicle            00090036352020SEP000247.59
+WINSTON HEIGHTS/MOUNTVIEW     Theft OF Vehicle              00030036352020SEP000082.53
+WOODBINE                      Break & Enter - Other Premises00020088662020SEP000022.56
+WOODBINE                      Theft FROM Vehicle            00050088662020SEP000056.40
+WOODBINE                      Theft OF Vehicle              00010088662020SEP000011.28
+WOODBINE                      Violence Other (Non-domestic) 00010088662020SEP000011.28
+WOODLANDS                     Theft FROM Vehicle            00010060022020SEP000016.66
+WOODLANDS                     Violence Other (Non-domestic) 00020060022020SEP000033.32
+SOMERSET                      Violence Other (Non-domestic) 00010085432020SEP000011.71
+KILLARNEY/GLENGARRY           Break & Enter - Dwelling      00010076852020SEP000013.01
+ERLTON                        Break & Enter - Other Premises00010012702020SEP000078.74
+GARRISON WOODS                Theft FROM Vehicle            00010031162020SEP000032.09
+SUNNYSIDE                     Violence Other (Non-domestic) 00010042302020SEP000023.64
+MARLBOROUGH PARK              Assault (Non-domestic)        00010085232020SEP000011.73
+MAPLE RIDGE                   Theft FROM Vehicle            00010019162020SEP000052.19
+TEMPLE                        Break & Enter - Other Premises00010109772020SEP000009.11
+BEDDINGTON HEIGHTS            Break & Enter - Other Premises00010115142020SEP000008.69
+CHARLESWOOD                   Break & Enter - Other Premises00010035692020SEP000028.02
+QUEENSLAND                    Violence Other (Non-domestic) 00010047432020SEP000021.08
+DOWNTOWN COMMERCIAL CORE      Break & Enter - Other Premises00010086832020SEP000011.52
+GARRISON GREEN                Break & Enter - Commercial    00010020602020SEP000048.54
+WILDWOOD                      Theft FROM Vehicle            00010027092020SEP000036.91
+LIVINGSTON                    Break & Enter - Commercial    00010014772020SEP000067.70
+CHARLESWOOD                   Theft FROM Vehicle            00010035692020SEP000028.02
+ROCKY RIDGE                   Assault (Non-domestic)        00010083982020SEP000011.91
+RIDEAU PARK                   Break & Enter - Dwelling      00010005942020SEP000168.35
+GLENDALE                      Break & Enter - Commercial    00010027652020SEP000036.17
+LINCOLN PARK                  Violence Other (Non-domestic) 00010026172020SEP000038.21
+WOODBINE                      Break & Enter - Dwelling      00010088662020SEP000011.28
+SOUTHWOOD                     Violence Other (Non-domestic) 00010062462020SEP000016.01
+FALCONRIDGE                   Break & Enter - Commercial    00010106532020SEP000009.39
+ARBOUR LAKE                   Violence Other (Non-domestic) 00010106192020SEP000009.42
+DEER RIDGE                    Assault (Non-domestic)        00010039732020SEP000025.17
+NORTH GLENMORE PARK           Break & Enter - Commercial    00010023912020SEP000041.82
+DALHOUSIE                     Break & Enter - Commercial    00010089402020SEP000011.19
+GLENDALE                      Theft OF Vehicle              00010027652020SEP000036.17
+EVERGREEN                     Break & Enter - Other Premises00010215002020SEP000004.65
+LINCOLN PARK                  Break & Enter - Commercial    00010026172020SEP000038.21
+MAPLE RIDGE                   Violence Other (Non-domestic) 00010019162020SEP000052.19
+EVANSTON                      Theft FROM Vehicle            00010176852020SEP000005.65
+MISSION                       Break & Enter - Dwelling      00010045982020SEP000021.75
+DOWNTOWN WEST END             Street Robbery                00010027852020SEP000035.91
+MCKENZIE TOWNE                Break & Enter - Commercial    00010182832020SEP000005.47
+EAU CLAIRE                    Break & Enter - Other Premises00020020302020SEP000098.52
+MAHOGANY                      Theft OF Vehicle              00010117842020SEP000008.49
+MANCHESTER                    Assault (Non-domestic)        00010010252020SEP000097.56
+HOUNSFIELD HEIGHTS/BRIAR HILL Break & Enter - Commercial    00020027982020SEP000071.48
+COLLINGWOOD                   Assault (Non-domestic)        00010022492020SEP000044.46
+MANCHESTER                    Break & Enter - Other Premises00010010252020SEP000097.56
+CHINOOK PARK                  Break & Enter - Commercial    00010016622020SEP000060.17
+SCARBORO                      Break & Enter - Commercial    00010009312020SEP000107.41
+FAIRVIEW                      Theft OF Vehicle              00060036462020SEP000164.56
+RUNDLE                        Break & Enter - Commercial    00010116882020SEP000008.56
+HIGHWOOD                      Break & Enter - Commercial    00010022582020SEP000044.29
+COPPERFIELD                   Theft OF Vehicle              00010138232020SEP000007.23
+MARTINDALE                    Break & Enter - Commercial    00010142452020SEP000007.02
+EVERGREEN                     Break & Enter - Commercial    00010215002020SEP000004.65
+SUNALTA                       Break & Enter - Other Premises00010032392020SEP000030.87
+GREENWOOD/GREENBRIAR          Break & Enter - Other Premises00010008962020SEP000111.61
+TEMPLE                        Break & Enter - Commercial    00010109772020SEP000009.11
+FAIRVIEW                      Commercial Robbery            00010036462020SEP000027.43
+ACADIA                        Theft FROM Vehicle            00080105202020SEP000076.05
+CHINATOWN                     Theft OF Vehicle              00010024712020SEP000040.47
+DOVER                         Street Robbery                00020103512020SEP000019.32
+NORTH GLENMORE PARK           Street Robbery                00010023912020SEP000041.82
+UNIVERSITY HEIGHTS            Theft FROM Vehicle            00030029212020SEP000102.70
